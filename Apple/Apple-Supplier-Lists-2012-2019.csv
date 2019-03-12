@@ -1,4 +1,4 @@
-customer,supplier,supplier_address,report_publication_year,supplier_address_is_internal_manufacturing_site,from_date,to_date
+customer,supplier_name,supplier_address,report_publication_year,supplier_address_is_internal_manufacturing_site,from_date,to_date
 Apple Inc.,AAC Technologies Holdings Inc.,,2012,,2011-01-01,2011-12-31
 Apple Inc.,AcBel Polytech Inc.,,2012,,2011-01-01,2011-12-31
 Apple Inc.,Acument Global Technologies,,2012,,2011-01-01,2011-12-31
