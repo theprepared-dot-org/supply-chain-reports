@@ -1,0 +1,803 @@
+supplier_name,supplier_address,supplier_address_is_internal_manufacturing_site
+3M Co.,"1400 State Docks Rd., Decatur, Alabama, USA",True
+3M Co.,"ACME Industrial Zone, Xiang Dong District, Da Ling Shan Town, Dongguan, Guangdong, China",True
+3M Co.,"1400 Perimeter Rd., Greenville, South Carolina, USA",True
+3M Co.,"5500 Oaza Osanagi, Higashine, Yamagata, Japan",True
+3M Co.,"577 Keumeui-ri, Jangan-myon, Hwaseong, Gyeonggi-do, Korea",True
+3M Co.,"1425 Stokke Parkway, Menomonie, Wisconsin, USA",True
+3M Co.,"Room 807, Area B, Zhong Tian Yuan Logistics Centre, Tao Hua Rd., Futian Free Trade Zone, Shenzhen, Guangdong, China",True
+3M Co.,"235, Zhongyuan Rd., Suzhou, Jiangsu, China",True
+3M Co.,"No. 312, Section 1, Huan-Dong Rd., Sinshih Township, Tainan, Taiwan",True
+AAC Technologies Holdings Inc.,"Gangqiao St., Nanxiashu Town, Wujin District, Changzhou, Jiangsu, China",True
+AAC Technologies Holdings Inc.,"Building 5, 6F, Nanyou Tianan Industry Park, Dengliang Rd., NanShan District, Shenzhen, Guangdong, China",True
+Acbel Polytech Inc.,"No. 17-28, Hongyeh Rd., Hongyeh Industrial District, Tangxia Town, Dongguan, Guangdong, China",True
+ACON Group,"No. 888, Huayuan Rd., Zhangpu Town, Kunshan, Jiangsu, China",True
+Advance Tech,"No. 8, Dongshan Avenue, Xukou Town, Wuzhong District, Suzhou, Jiangsu, China",True
+Advanced Semiconductor Engineering Inc. (USI),"No. 1558, Zhang Dong Rd., Zhangjiang Hi-Tech Park, Shanghai, China",True
+AKM Semiconductor Inc.,"4 Ren Der Rd., Hsinchu Industrial Park, Hisnchu, Taiwan",True
+AKM Semiconductor Inc.,"13-2, Sekinoiri Sumie, Ishinomaki, Miyazaki, Japan",True
+AKM Semiconductor Inc.,"1-15, Nakashima-cho, Nobeoka, Miyazaki, Japan",True
+AKM Semiconductor Inc.,"5-4960, Nakagawara-cho, Nobeoka, Miyazaki, Japan",True
+AKM Semiconductor Inc.,"No. 5 Nanke 7th Rd., Southern Taiwan Science Park, Tainan, Taiwan",True
+Alcoa Inc.,"1480 Manheim Pike, Lancaster, Pennsylvania, USA",True
+Alcoa Inc.,"No. 95, Beihuan Rd., Haigang District, Qinhuangdao, Hebei, China",True
+Alps Electric Co. Ltd.,"Xinxing Industry Zone, Xingfa South St., Wushaliwu, Changan Town, Dongguan, Guangdong, China",True
+Alps Electric Co. Ltd.,"41-25, Yanagi-machi, Noda Onahama, Iwaki, Fukushima, Japan",True
+Alps Electric Co. Ltd.,"6-1 Nishida, Kakuda, Miyagi, Japan",True
+Alps Electric Co. Ltd.,"P.T. 10643, Nilai Industrial Estate, Nilai, Negeri Sembilan, Malaysia",True
+Alps Electric Co. Ltd.,"6-3-36, Furukawa Nakazato, Osaka, Japan",True
+Alps Electric Co. Ltd.,"230, Shibue, Wakuya, Tohda-gun, Japan",True
+Alps Electric Co. Ltd.,"No. 5, Xingchuang 4 Rd., Singapore Industrial Park, Wuxi, Jiangsu, China",True
+Amphenol Corp.,"No. 98-5, Rd. 19, Hangzhou Economic and Technological Development Zone, Hangzhou, Zhejiang, China",True
+Amphenol Corp.,"No. 689, Shen Nan Rd., Xin Zhuang Industry Park, Shanghai, China",True
+Amphenol Corp.,"Blk 6, 4th Industrial Zone, Dawangshan, Shajing Town, Baoan District, Shenzhen, Guangdong, China",True
+Amphenol Corp.,"Block A3/A4, The 4th Ind. District of Industrial Headquarters, Dong Keng Rd., Gong Ming Town, Shenzhen, Guangdong, China",True
+Analog Devices Inc.,"Gateway Business Park, Special Export Processing Zone, Baranggay Javalera, Gen Trias, Cavite, Philippines",True
+Analog Devices Inc.,"No. 275, Binjiang Rd., Jiangyin, Jiangsu, China",True
+Analog Devices Inc.,"Bay F-1, Raheen Industrial Estate, Limerick, Ireland",True
+Arvato Digital,"IDA Business Park, Balbriggan, Dublin, Ireland",True
+Arvato Digital,"112 Hidden Lake Circle, Duncan, South Carolina, USA",True
+Arvato Digital,"Willi-Bleicher-Strabe 36, Duren, Germany",True
+Arvato Digital,"235 King St. East, Kitchener, Ontario, Canada",True
+Arvato Digital,"4600 Commerce Crossing Dr., Louisville, Kentucky, USA",True
+Arvato Digital,"11500 80th Ave., Pleasant Prairie, Wisconsin, USA",True
+Arvato Digital,"162 Luixiu Rd., Shanghai, China",True
+Arvato Digital,"2 Woodlands Sector 1, #01-14 Woodland East Industrial Estate, Singapore",True
+Asahi Glass Co Ltd.,"3583-5, Kawashiri, Yoshida-cho, Haibara-gun, Shizuoka, Japan",True
+Asahi Glass Co Ltd.,"1-8, Machiikedai, Koriyama, Fukushima, Japan",True
+Asahi Glass Co Ltd.,"SAHA Group Industrial Park Lamphun 99/39 Moo 5, T. Pasak, Muang Lamphun, Lamphun, Thailand",True
+Asahi Glass Co Ltd.,"5-6-1, Umei, Takasago, Hyogo, Japan",True
+Asia Vital Components Ltd.,"No. 5, Lane 8, Rongjiang Rd., Songjiang Export Processing Zone, Shanghai, China",True
+Asia Vital Components Ltd.,"West Industry Park, Xinyang, Industrial Zone, Shajing Town, Bao’an District, Shenzhen, Guangdong, China",True
+AT&S AG,"No. 5000, Jin Du Rd., Shanghai, China",True
+AU Optronics Corp.,"No. 1, Li-Hsin Rd. 2, Hsinchu Science Park, Hsinchu, Taiwan",True
+AU Optronics Corp.,"No. 398, Suhong Zhong Rd., Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+AU Optronics Corp.,"No. 1, Jhongke Rd., Central Taiwan Science Park, Taichung, Taiwan",True
+AU Optronics Corp.,"No. 168,9 Xiang’An North Rd., Xiang’An Branch, Torch Hi-tech, Xiamen, Fujian, China",True
+Austria Microsystems (AMS AG),"B2-1D Carmelray Industrial Park II, Barangay Tulo, Calamba, Laguna, Philippines",True
+Austria Microsystems (AMS AG),"Tobelbaderstrasse 30, Unterpremstaetten, Austria",True
+Avago Technologies Ltd.,"4380 Ziegler Rd., Ft. Collins, Colorado, USA",True
+Biel Crystal Manufactory Ltd.,"Biel Crystal Industrial Park, Tangjing Village, Baishi, Qiuchang Town, Huiyang District, Huizhou, Guangdong, China",True
+Biel Crystal Manufactory Ltd.,"No. 7, 4th Jinquan Rd., Liuyue Village, Henggang District, Shenzhen, Guangdong, China",True
+Brilliant International Group Ltd.,"Qiao Tou, 1, Industrial District, Lou Cun Community Council, Gong Ming St., Guangming, Xinqu, Shenzhen, Guangdong, China",True
+Brilliant International Group Ltd.,"Building 1, Linyuan Investment Park, Intersection of Yanhe Rd. and Shenzhou, Xinzheng, Henan, China",True
+Broadway Industrial Group Ltd.,"South Section Century Avenue, Chongzhou City, Chengdu, Sichuan, China",True
+Broadway Industrial Group Ltd.,"No. 8, Guxu Rd., Pudong New District, Shanghai, China",True
+Broadway Industrial Group Ltd.,"Block 34, East Juhuang Industrial Park, Dasan Village, Dasan Community, Guanlan Community Office, Bao’an District, Shenzhen, Guangdong, China",True
+Broadway Industrial Group Ltd.,"Pengyu Industry Zone, Jianshe North Rd, Airport Zone, Zhengzhou, Henan, China",True
+Bum Chun Precision Company Ltd.,"675-3, Seonggok-dong, Danwon-gu, Ansan, Gyeonggi-Do, Korea",True
+BYD Company Ltd.,"Xiangshui River, Economic Development Zone, Daya Bay, Huizhou, Guangdong, China",True
+BYD Company Ltd.,"No. 1, Baoping Rd., Baolong Industrial Town, Long Gang, Shenzhen, Guangdong, China",True
+Career Technology (Mfg.) Co. Ltd.,"No. 18, Jinshajiang South Rd., Kunshan, Jiangsu, China",True
+Career Technology (Mfg.) Co. Ltd.,"No. 28, Chungqui Rd., Panyang Industrial Park, Huangdai Town, Suzhou, Jiangsu, China",True
+Career Technology (Mfg.) Co. Ltd.,"248, Bo-ai St., Shulin District, Taipei, Taiwan",True
+Catcher Technology Co. Ltd.,"No. 21, Gucheng Rd., Suzhou-Suqian Industrial Park, Suqian, Jiangsu, China",True
+Catcher Technology Co. Ltd.,"No. 107, Changyang St., Industrial Park, Suzhou, Jiangsu, China",True
+Catcher Technology Co. Ltd.,"No. 111, Changyang St., Industrial District, Suzhou, Jiangsu, China",True
+Catcher Technology Co. Ltd.,"No. 398, Ren'ai St., Yungkang, Tainan, Taiwan",True
+Catcher Technology Co. Ltd.,"No. 6, Zhenxing West Rd., Economic Development Zone, Taizhou, Jiangsu, China",True
+Catcher Technology Co. Ltd.,"Xiangtai Rd. West, Lion River South Side, Economic Development Zone, Taizhou, Jiangsu, China",True
+Cathay Tat Ming Precision Metal Products Co. Ltd.,"No. 5, Furong 3rd Rd., Xishan Economic Development Zone, Wuxi, Jiangsu, China",True
+Cathay Tat Ming Precision Metal Products Co. Ltd.,"No. 2, Section A, Bai'gong'ao Industrial Zone, Xikeng Xinwei Sector, Fumin, Guanlan, Bao'an, Shenzhen, Guangdong, China",True
+Cheng Loong Corp.,"No. 48, Teng Feng 3rd Rd., Chengdu, Sichuan, China",True
+Cheng Loong Corp.,"Dong Yi St. Industry District Houjie Town, Dongguan, Guangdong, China",True
+Cheng Loong Corp.,"The Fourth Rd., Yue Yuan Industrial Estate, Huang Jiang Town, Dongguan, Guangdong, China",True
+Cheng Loong Corp.,"No. 98, Zone B, Gui Lin Rd, Kunshan, Jiangsu, China",True
+Cheng Loong Corp.,"399, Xiupu Rd, Kang Qiao Ind Zone, Nan Hui Dist, Shanghai, China",True
+Cheng Loong Corp.,"Building 3, Linyuan Investment Park, Intersection of Yanhe Rd. and Shenzhou, Xinzheng, Henan, China",True
+Cheng Uei Precision Industry Co. Ltd. (Foxlink),"Industrial Avenue, Dongkeng Town, Dongguan, Guangdong, China",True
+Cheng Uei Precision Industry Co. Ltd. (Foxlink),"Junda Industrial Park, Dongkeng Town, Dongguan, Guangdong, China",True
+Cheng Uei Precision Industry Co. Ltd. (Foxlink),"Junwang Industrial Park, Dongkeng Town, Dongguan, Guangdong, China",True
+Cheng Uei Precision Industry Co. Ltd. (Foxlink),"Longkeng, Dongkeng Town, Dongguan, Guangdong, China",True
+Cheng Uei Precision Industry Co. Ltd. (Foxlink),"No. 6, Zheng Wei Xi Rd., Jin Xi Town, Kunshan, Jiangsu, China",True
+Cheng Uei Precision Industry Co. Ltd. (Foxlink) C,"Block B, Investment Service Center, No. 180, Jianjun Rd., Yancheng, Jiangsu, China",True
+hina Circuit Technology Corp.,"Wanji Industrial District, Longhu, Shantou, Guangdong, China",True
+CN Innovations,"Yayuan Road, Bantian Village, Longgang District, Shenzhen, Guangdong, China",True
+CN Innovations,"58, Zhen Xing Road, Dagong, Panyu, Guangzhou City, China",True
+"Coilcraft, Inc.","112, Jalan Sawit Baru 8, Taman Perindustrian Sawit Baru, Kulai, Johor, Malaysia",True
+"Coilcraft, Inc.","Jln Aster, Lot SD37-38, Lobam, Bintan, Indonesia",True
+"Coilcraft, Inc.","Putian Village, Xiyang Town, Meizhou, Guangdong, China",True
+"Coilcraft, Inc.","Bac Chu Lai Industrial Park, Chu Lai Open Economic Zone. Tam Hiep, Nui Thanh, Quang Nam, Vietnam",True
+"Coilcraft, Inc.","Blk 512 Chai Chee Lane #03-15 Bedok Industrial Estate, Singapore",True
+"Coilcraft, Inc.","No. 5, Guangtonnan Rd., Dongfeng West St., Weinan, Shanxi, China",True
+Compeq Manufacturing Co. Ltd.,"No. 168, Huguang Rd., Huzhen Town, Boluo County, Huizhou, Guangdong, China",True
+Compeq Manufacturing Co. Ltd.,"No. 91, Lane 814, Ta-Hsin Rd., Shin Chuang Village, Lu Chu Hsiang, Taoyuan, Taiwan",True
+Consolidated Graphics,"1245 Lakeview Dr., Chaska, Minnesota, USA",True
+Consolidated Graphics,"495-35 Hane, Hagiwara-cho, Gero, Gifu, Japan",True
+Consolidated Graphics,"2661 South Pacific Highway, Medford, Oregon, USA",True
+Consolidated Graphics,"Business Center Chrástany, Chrástany 207, Praha západ, Czech Republic",True
+Coretronic Corp.,"No. 2, Guoyuan 1st Rd., East Zone, Guangzhou Economic and Technological Development District, Guangzhou, Guangdong, China",True
+Coretronic Corp.,"No. 18, Yinlong Rd., Jiangning Development Zone, Nanjing, Jiangsu, China",True
+Coretronic Corp.,"No. 68, QunXing 3rd Rd., Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+Corning Inc.,"680 E. Office St., Harrodsburg, Kentucky, USA",True
+Corning Inc.,"12117, Obuchi, Kakegawa, Shizuoka, Japan",True
+Corning Inc.,"No. 33, Section 2, HaunDong Rd., Tainan Science Based Industrial Park, Tainan, Taiwan",True
+Cosmosupplylab Ltd.,"1, Hua Nan Rd., Hongmei Town, Dongguan, Guangdong, China",True
+Cosmosupplylab Ltd.,"Guanhaung Rd., Xiansha Industrial Area, Gaobu Town, Dongguan, Guangdong, China",True
+Cosmosupplylab Ltd.,"Hongjin Rd., Hongmei Town, Dongguan, Guangdong, China",True
+Cosmosupplylab Ltd.,"Xinzhuang Village, Hongmei Town, Dongguan, Guangdong, China",True
+Cowell E Holdings Inc.,"Jinghe Industrial Area, Hengkeng Village, Liaobu Town, Dongguan, Guangdong, China",True
+Cowell E Holdings Inc.,"No. 1, Songbo Rd., Huanan Industrial Area, Liaobu Town, Dongguan, Guangdong, China",True
+COXON Precise Industrial Co. Ltd.,"Zhenan 1st road, 6th industrial District, Shangsha Villlage, Changan Town, Dongguan, Guangdong, China",True
+COXON Precise Industrial Co. Ltd.,"No. 28, Jiulong Road, S.E. Development Zone, Changshu, Jiangsu, China",True
+CymMetrik Enterprise,"8th Factory, Industrial Park of Weishi County, Kaifeng, Henan, China",True
+CymMetrik Enterprise,"No. 168, Chuyang Rd., Lujia Town, East Part of Economic and Technical Development Zone, Kunshan, Jiangsu, China",True
+CymMetrik Enterprise,"Xinhua Rd., Xingwei Community, Fuyong St., Bao'an, Shenzhen, Guangdong, China",True
+Dai-Ichi Seiko Co. Ltd.,"2455-1, Takata, Chikuzen-machi, Asakura-gun, Fukuoka, Japan",True
+Dai-Ichi Seiko Co. Ltd.,"12, Hokuryo-cho, Matsue, Shimane, Japan",True
+Dai-Ichi Seiko Co. Ltd.,"863, Mitsusawa, Ogori, Fukuoka, Japan",True
+Dai-Ichi Seiko Co. Ltd.,"100, Baiyun Rd., Minhang Economic Development Zone, Shanghai, China",True
+Dai-Ichi Seiko Co. Ltd.,"169, Bei Dou Rd., Minhang SMEDZ, Shanghai, China",True
+Dai-Ichi Seiko Co. Ltd.,"55, Yishun Industrial Park Ave., Singapore",True
+Dai-Ichi Seiko Co. Ltd.,"Block 2 Woodlands Sector 1, No.01-24, Woodlands Spectrum 1, Singapore",True
+Daikin Industries Ltd.,"2252 State Docks Rd., Decatur, Alabama, USA",True
+Daikin Industries Ltd.,"1-1, Nishi-Hitotsuya, Settsu, Osaka, Japan",True
+Darfon Electronics Corp.,"No. 99, Zhuyuan Rd., New District, Suzhou, Jiangsu, China",True
+Darfon Electronics Corp.,"21, Industry 2nd Rd., Tainan, Taiwan",True
+Darfon Electronics Corp.,"167, Shanying Rd., Gueishan, Taoyuan, Taiwan",True
+Delta Group,"Wellgrow Industrial Estate, 111 Moo 9, Soi 11, Bangna-Trad Rd., Tambol Bangwua, Bang Pakong, Chachoengsao, Thailand",True
+Delta Group,"Chen Zhou Export Processing Zone, Bai Lu Tang Town, Su Xian District, Chenzhou, Hunan, China",True
+Delta Group,"Delta Plant 2, Delta Industrial Estate, Shijie Town, Dongguan, Guangdong, China",True
+Delta Group,"2 R&D 2nd Rd., Science-Based Industrial Park, Hsinchu, Taiwan",True
+Delta Group,"No. 168, Kat City Rd. WuJiang City Economic Development Zone, Suzhou, Jiangsu, China",True
+Delta Group,"No. 688, Xiuhu West Rd., Song Ling Town, Suzhou, Jiangsu, China",True
+Delta Group,"1688, Jiangxing E Rd., Wujiang Economic Development Zone, Wujiang, Jiangsu, China",True
+Diodes Inc.,"Zetex Technology Park, Chadderton, Oldham, United Kingdom",True
+Diodes Inc.,"777 N.W. Blue Parkway, Suite 350, Lee's Summit, Missouri, USA",True
+Diodes Inc.,"Waldweg 7, Neuhaus am Rennweg, Germany",True
+Diodes Inc.,"No. 999, Chenchun Rd. Xinqiao Town, Songjiang District, Shanghai, China",True
+Diodes Inc.,"Plant No. 1, Lane 18, San Zhuang Rd., Songjiang Export Zone, Shanghai, China",True
+Dou Yee Technologies,"113 Defu Lane 10, Singapore",True
+Dover Corp.,"No. 20, Tongji South Rd., Beijing Economic-Technological Development Area, Beijing, China",True
+Dover Corp.,"Plot 104, Lebuhraya Kampung Jawa, Bayan Lepas Industrial Estate, Penang, Malaysia",True
+Dover Corp.,"379, Middle Suhong Rd., Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+DSM Engineering Plastics Co. Ltd.,"No. 18, Pan Long Shan Rd., Jiangyin, Jiangsu, China",True
+Dynacast International Inc.,"Lot 517, Jln Rambutan, Batamindo Industrial Park, Muka Kunning, Batam, Indonesia",True
+Dynacast International Inc.,"No. 88, Qiufu Rd. District, Fumin Industrial Park 2, Dalang, Dongguan, Guangdong, China",True
+Dynacast International Inc.,"No. 6, Second Chin Bee Rd., Singapore",True
+Dynapack International Technology Corp.,"No. 8, Hua-Gang Rd., Wujiang Economic and Technological Development Zone, Suzhou, Jiangsu, China",True
+E-Litecom Co. Ltd.,"4th Standard Workshop, 117th on Mei Yu Rd., Wuxi New District, Wuxi, Jiangsu, China",True
+Eaton,"Xinming Industrial Estate, Changan Town, Dongguan, Guangdong, China",True
+Ellington Electronics Technology Group,"88, Gao Ping Chemical & Industrial Zone, San Jiao Town, Zhongshan, Guangdong, China",True
+Elpida Memory Inc.,"89-2, Yamada, Yuwaishida, Akita, Japan",True
+Elpida Memory Inc.,"7-10, Yoshikawa Kogyo Danchi, Higashi , Hiroshima, Japan",True
+Emerson Electric Co.,"Main Avenue Corner Rd. J, PEZA Complex, Rosario, Cavite, Philippines",True
+Emerson Electric Co.,"1st Building, Emerson Industrial Park, FengTang Rd., Fuyong, Bao'an District, Shenzhen, Guangdong, China",True
+Emerson Electric Co.,"No. 68, Baocheng E. Rd., Fucheng Town, Luoding, YunFu, Guangdong, China",True
+Fairchild Semiconductor International,"420-711 82-3, Dodang-Dong, Wonmi-District, Bucheon, Gyeonggi-do, Korea",True
+Fairchild Semiconductor International,"Mactan Export Zone I, Lapulapu, Cebu, Philippines",True
+Fairchild Semiconductor International,"Crestwood Industrial Park, 125 Crestwood Rd., Mountain Top, Pennsylvania, USA",True
+Fairchild Semiconductor International,"Bayan Lepas Free Industrial Zone, Penang, Malaysia",True
+Fairchild Semiconductor International,"333 Western Ave, South Portland, Maine, USA",True
+Fairchild Semiconductor International,"1, Sutong Rd., China-Singapore Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+Fairchild Semiconductor International,"3333 West 9000 South, West Jordan, Utah, USA",True
+Flexium Interconnect Inc.,"No. 23, Juguang 1st St., Tafa Industrial Park, Daliao District, Kaohsiung, Taiwan",True
+Flexium Interconnect Inc.,"No. 1399, Hanpu Rd., Hi-Tech Industrial Park, Kunshan, Jiangsu, China",True
+Flextronics International Ltd.,"12455 Research Blvd., Austin, Texas, USA",True
+Flextronics International Ltd.,"Flextronics Industrial Zone, Shida Rd., Dalingshan Town, Dongguan, Guangdong, China",True
+Flextronics International Ltd.,"Economic & Technology Development Zone, Ganzhou, Jiangxi, China",True
+Flextronics International Ltd.,"Avenida Liberdade, 6315, Iporanga – Sorocaba, Sao Paulo, Brazil",True
+"Fortune Grand Enterprise Co., Ltd.","2nd Industrial Zone Dajintou, Dalang Town, Dongguan, Guangdong, China",True
+"Fortune Grand Enterprise Co., Ltd.","No. 35, Chunqiu Rd, Panyang Industrial Zone Huangda Town, Xiangcheng District, Suzhou, Jiangsu, China",True
+Foster Electric Co. Ltd.,"Workshop No. 1, Candy & Food Industrial Area, Chongzuo City Industrial Zone, Chongzhu, Guangxi, China",True
+Foster Electric Co. Ltd.,"St. 1, Hoa Cam Industrial Zone, Cam Le District, Da Nang, Vietnam",True
+Foster Electric Co. Ltd.,"No. 138, Panjiang East Rd., Gaozhou, Guangdong, China",True
+Foster Electric Co. Ltd.,"Old Shuikeng Village, Dalong Rd., Panyu District, Guangzhou, Guangdong, China",True
+Foster Electric Co. Ltd.,"No. 20, VSIP II St. 5, Vietnam Singapore Industrial Park II, Binh Duong Industry Service-Urban Complex, Thu Dau Mot District, Ho Chi Minh, Binh Duong, Vietnam",True
+Foster Electric Co. Ltd.,"Bldg. 7, #1 Zongbu Rd, Nanning New & High-tech Industrial Zone, Nanning City, Guangxi Province, China.",True
+Foster Electric Co. Ltd.,"No. 8, 11 Ke Yuan Dong Rd., Nanning New & High-tech Industrial Zone, Nanning City, Guangxi Province, China",True
+Foster Electric Co. Ltd.,"No. 1, St. 11, VSIP Bac Ninh, Tu Son, Bac Ninh, Vietnam",True
+Fujikura Ltd.,"1/80 Moo 5, Rojana Industrial Park, Rojana Rd., Tambol Kanham, Ayutthaya, Thailand",True
+Fujikura Ltd.,"101/2 Moo 20, Navanakorn Industrial Zone, Phaholyothin Rd., Tambol Klong-Nueng, Khlong Luang, Pathum Thani, Thailand",True
+Fujikura Ltd.,"55/25 Moo 13, Navanakorn Industrial Estate, Paholyothin Rd., Klong Nueng, Khlong Luang, Pathum Thani, Thailand",True
+Fujikura Ltd.,"14, Matsuyama-cho, Moka, Tochigi, Japan",True
+Fujikura Ltd.,"No. 1411, Yecheng Rd., Jiading Industrial Zone, Shanghai, China",True
+Fujikura Ltd.,"Building 56A, No. 199 Ri Ying North Rd., Waigaoqiao Free Trade Zone, Shanghai, China",True
+Fujikura Ltd.,"No. 888, Zhaoxian Rd., Jiading Industrial Zone, Shanghai, China",True
+Furukawa,"No. 169, Putian Rd., Weiting Town, Suzhou Industrial Zone, Suzhou, Jiangsu, China",True
+Genius Electronic Optical Co. Ltd.,"No. 8, Chuangxin Rd., Torch Hi-tech Indsl Zone, Xiamen, Fujian, China",True
+GoerTek Inc.,"West Changan South Rd. and North Tengfei Rd., Yishui County, Linyi, Shandong, China",True
+GoerTek Inc.,"No. 268, Dongfang Rd., High-Tech Industrial Development Zone, Weifang, Shandong, China",True
+Hama Naka Shoukin Industry Co. Ltd.,"No. 1, Gaoding Rd., Kunshan Development Zone, Kunshan, Jiangsu, China",True
+Hanson Metal Factory Ltd.,"Gan Po Village, Zhen Long, Hui Yang District, Huizhou, Guangdong, China",True
+Hanson Metal Factory Ltd.,"No. 5, Industrial Park, Daxin Group, Chen Jiang Town, Huizhou, Guangdong, China",True
+Hanson Metal Factory Ltd.,"Tangxia Chanjing Village, Xin Xu Town, Hui Yang District, Huizhou, Guangdong, China",True
+Hanson Metal Factory Ltd.,"No. 155, HuaMei Mid-Rd., HuangGeKeng Village, Longgang District, Shenzhen, Guangdong, China",True
+Heesung Electronics Ltd.,"No. 30, Xingyou Rd., Nanjing Economical and Technological Development Zone, Nanjing, Jiangsu, China",True
+Henkel AG & Co.,"Kirchheimer Str. 9, Bopfingan, Germany",True
+Henkel AG & Co.,"Quilinchini Avenue 9, Sabana Grande, Puerto Rico",True
+Henkel AG & Co.,"No. 90, Zhu Jiang Rd., Yantai Economic Technological Development Zone, Yantai, Shandong, China",True
+Heptagon Advanced Micro-Optics Pte Ltd.,"26, Woodlands Loop, Level 1, Singapore",True
+HI-P International Ltd.,"Blk 3 and 4, No. 955, Jinhai Rd., Shanghai, China",True
+HI-P International Ltd.,"No. 77, Jinwen Rd., Zhuqiao Airport Industrial Zone, Pudong New Area, Shanghai, China",True
+HI-P International Ltd.,"No. 79, Jinwen Rd., Zhuqiao Airport Industrial Zone, Pudong New Area, Shanghai, China",True
+HI-P International Ltd.,"No. 96, Jinwen Rd., Pudong New Area, Shanghai, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"N6-3F, No. 166 Hezou Rd., Chengdu High Technology Western Park, Chengdu, Sichuan, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 168, Hezuo Rd., Chengdu High Technology Western Park, Chengdu, Sichuan, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 888, Hezuo Rd., the Export Processing Zone, West of High-Tech Area, Chengdu, Sichuan, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 99, JianNan Rd., JianNan St., Fengcheng, Jiangxi, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 1, East Chang Hong Rd., Cheng Xi Industrial Zone, Foshan, Guangdong, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 35, Hua Bao North Rd., Cheng Xi Industrial Zone, Chancheng District, Foshan, Guangdong, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"Unit 4008-4018, 4F/I, ATL Logistics Centre B, Berth 3, Kwai Chung Container Terminals, Hongkong, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 168, Fushikang Rd., Huai'an Economic Development Zone, Huai'an, Jiangsu, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 99, Fuxing Avenue, Xitang Town, Jiashan, Zhejiang, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 1216, Lanhua Rd., Economic& Technology Development Zone, Jincheng, Shanxi, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"HuLing Industry Park, HuangHe River Rd., Jiyuan, Henan, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 299, Nan Song Rd.. Yu Shan Town, Kunshan, Jiangsu, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 55, GuiLin Rd., Kunshan Comprehensive Bonded B Zone, Kunshan, Jiangsu, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 688, HuaQing Rd., Hi-Tech Industrial Zone, Kunshan, Jiangsu, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 889, Fushikang Rd., High Technology Industry Park, Kunshan Development Zone, Kunshan, Jiangsu, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"Longhe Technology Industry Zone, Southern Construction Rd., Anci District, Langfang, Hebei, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"Avenida Caminho de Goiás 100, Rodovia Anhanguera km 66, Bairro dos Fernandes, CEP 13214-870 -- Bloco A, Sao Paulo, Brazil",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 1925, NanLe Rd., Songjiang Export Processing Zone, Shanghai, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"Building 8, Foxconn Guanlan Technology Park B District, DaSan Community, Guanlan Town, Bao’an, Shenzhen, Guangdong, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"Building A3, Baoyuan Technology Area Guanguang Rd., Guanlan Dashuikeng Village, Shenzhen, Guangdong, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"Foxconn Guanlan Technology Park North site, Dashuikeng Village Guanlan Town, Bao’an, Shenzhen, Guangdong, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"Foxconn Longhua Technology Park, #2 2nd Donghuan Rd., 10th Yousong Industrial District, Longhua Town, Bao’an, Shenzhen, Guangdong, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"Hongguan Science and Technology Park, DaShuikeng Village, Guanlan St., Guanlan, Shenzhen, Guangdong, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 6, Sec. 2, Huandong Rd., Xinshi District, Tainan, Taiwan",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 1, Longfei St. Economy-Technology Development Zone, Taiyuan, Shanxi, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"37 St., Dinh Tram Industry Zone, Viet Yen, Bac Giang, Vietnam",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"General Bonded Zone, East ZhenXing Rd., Zhengzhou Airport, Zhengzhou, Henan, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 7 workshop, Export processing District, No. 9 Avenue, Economic and Technical Development Zone, Zhengzhou, Henan, China",True
+Hon Hai Precision Industry Co. Ltd. (Foxconn),"No. 9, Jianye East Rd., Torch Hi-Tech Development Zone, Zhongshan, Guangdong, China",True
+Hony Glass Technology Co. Ltd.,"No. 696, Shi-Pu Rd., Xing-Pu South Airport Rd., Qiang Deng Town, Kunshan, Jiangsu, China",True
+Hony Glass Technology Co. Ltd.,"No. 277-1, YanLuo Rd., Luotian Community, SongGang St., BoaAn District, Shenzhen, Guangdong, China",True
+Hony Glass Technology Co. Ltd.,"No. 141,Ting Ping Rd., Rei Feng Industrial Park, Rei Feng District, Taipei, Taiwan",True
+Hydro Aluminium Extrusion Spain S.A.,"Poligono Ind. Can Font de la Parera, St. Ines de Malanyanes, La Roca del Valles, Barcelona, Spain",True
+Hynix Semiconductor Inc.,"125, Hyangjeong-dong, Hungduk-gu, Cheongju, Chungcheongbuk-do, Korea",True
+Hynix Semiconductor Inc.,"San 136-1, Ami-Ri Bubal-eub, Icheon, Gyeonggi-do, Korea",True
+Hynix Semiconductor Inc.,"Lot K7, Wuxi Export Processing Zone, Wuxi, Jiangsu, China",True
+IBIDEN Co. Ltd.,"No. 15, Rong Chang East St., BDA, Beijing, China",True
+IBIDEN Co. Ltd.,"300, Aoyanagi-cho, Ogaki, Gifu, Japan",True
+IBIDEN Co. Ltd.,"No. 1049, Jalan Perindustrian Bukit Minyak 8, Kawsan Perindustrian Bukit Minyak, Penang, Malaysia",True
+Infineon Technologies AG,"Free Trade Zone, Jalan Batu Berendam, Batu Berendam, Malacca, Malaysia",True
+Infineon Technologies AG,"Königsbrücker Str. 180, Dresden, Germany",True
+Infineon Technologies AG,"Lot 10 & 11, Kulim Hi-Tech Park, Kedah Darul Aman, Jalan Hi-Tech 7, Industrial Zone Phase II, Kulim, Kedah, Malaysia",True
+Infineon Technologies AG,"Wernerwerkstr 2, Regensburg, Germany",True
+Infineon Technologies AG,"Siemensstrasse 2, Villach, Germany",True
+Innolux Corp.,"No. 93, Fu Cheng West Rd., Jingning Economic & Technological Development Zone, Nanjing, Jiangsu, China",True
+Intel Corp.,"129 La Ribera St., Belen, Costa Rica",True
+Intel Corp.,"4500 South Dobson Rd., Chandler, Arizona, USA",True
+Intel Corp.,"5000 W. Chandler Blvd. ADC Building, Chandler, Arizona, USA",True
+Intel Corp.,"No. 8-1, Kexin Rd., High-Tech Zone (West Park), Chengdu, Sichuan, China",True
+Intel Corp.,"109, Huaihe East Rd, Dalian, Liaoning, China",True
+Intel Corp.,"2501 NW 229th Avenue, Hillsboro, Oregon, USA",True
+Intel Corp.,"Lot I2, Saigon Hi-Tech Park, District 9, Ho Chi Minh, Binh Duong, Vietnam",True
+Intel Corp.,"Reed Rd., Hudson, Massachusetts, USA",True
+Intel Corp.,"New Industrial Area, 2 Tzoran St., Kiryat Gat, Israel",True
+Intel Corp.,"Collinstown Industrial Park, Leixlip, Ireland",True
+Intel Corp.,"Bayan Lepas Industrial Park IV, Penang, Malaysia",True
+Intel Corp.,"Rio Rancho Blvd SE, Rio Rancho, New Mexico, USA",True
+Intel Corp.,"Intel International B.V, Capronilaan 37, Schiphol-Rijk, Netherlands",True
+Intel Corp.,"No. 6, Guanglan Rd., Futian Free Trade Zone, Shenzhen, Guangdong, China",True
+Interflex Co. Ltd.,"635-2, 608 Block 3 Route, Seonggok-dong, Danwon-gu, Ansan, Gyeonggi-do, Korea",True
+Interflex Co. Ltd.,"930, Gosaek-dong, Gwonseon-gu, Suwon, Gyeonggi-do, Korea",True
+Intramedia Inc.,"No. 11, Haiyi Rd, Ching Tou Village, Changan Town, Dongguan, Guangdong, China",True
+Intramedia Inc.,"189, Tangzhuang Rd., Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+Inventec Corp.,"789, Puxing Rd., Shanghai, China",True
+Jabil Circuit Inc.,"128, Juncheng Rd., Guangzhou Economic and Technological Development District, Guangzhou, Guangdong, China",True
+Jabil Circuit Inc.,"No. 7, Yang Qing Rd., Lou Feng Demonstrative Zone, Suzhou, Jiangsu, China",True
+Jabil Circuit Inc.,"No. 21, SaiDa Shiji Rd., Xiqing Economic Development Zone, Tianjin, China",True
+Jabil Circuit Inc.,"Lot J9, J10 Export Processing Zone, Wuxi, Jiangsu, China",True
+Jabil Circuit Inc.,"No. 84-2, Block B, National Hi-Tech Industrial Development Zone, Wuxi, Jiangsu, China",True
+Japan Aviation Electronics Industry Ltd.,"5-1, Oaza Seinofukuro 5-chome, Hirosaki, Aomori, Japan",True
+Japan Aviation Electronics Industry Ltd.,"4102-6, Aza Takadaishinden, Oaza Izumida, Shinjo, Yamagata, Japan",True
+Japan Display Inc.,"Xinyang Rd., Dengwu Village, Qiaotou Town, Dongguan, Guangdong, China",True
+Japan Display Inc.,"26-2, Yamadasenden, Kawakita, Nomi-gun, Ishikawa, Japan",True
+Japan Display Inc.,"1-1, Iwauchi-machi, Nomi, Ishikawa, Japan",True
+Kaily Packaging Pte. Ltd.,"Wanjiang Industrial Park, Wanjiang District, Dongguan, Guangdong, China",True
+Kaily Packaging Pte. Ltd.,"No. 500, Xin Ge Rd.. Xin Qiao Town , Songjiang District, Shanghai, China",True
+KEMET Corp.,"Av. Eloy Cavazos 7908 OTE. Colonia Rancho Viejo, Guadalupe, Nuevo León, Mexico",True
+KEMET Corp.,"Av. Carlos Salazar y Bulevar Manuel Cavazos Lerma No. 15, H. Matamoros, Tamaulipas, Mexico",True
+KEMET Corp.,"Via San Lorenzo 19, Sasso Marconi, Bologna, Italy",True
+KEMET Corp.,"No. 55, Taifeng Rd., Shanghai, China",True
+KEMET Corp.,"99, Yang Pu Rd., Suzhou, Jiangsu, China",True
+KEMET Corp.,"Av. las Americas 780 Ote., Colonia, Victoria, Tamaulipas, Mexico",True
+Kyocera Group,"8, Jing Ci Rd., New City District, Shilong Town, Dongguan, Guangdong, China",True
+Kyocera Group,"5850, Higashine-koh ohaza, Higashine-shi, Yamagata, Japan",True
+Kyocera Group,"1166-6, Nagatanino, Hebimizo-cho, Higashiomi, Shiga, Japan",True
+Kyocera Group,"1-1, Kokubuyamashita-cho, Kokubu, Kagoshima, Japan",True
+Kyocera Group,"Dvořákova 328, Lanskroun, Czech Republic",True
+Kyocera Group,"Sekigiken Co., Ltd. 354-32, Hayakawa, Minami Uonuma, Niigata, Japan",True
+Kyocera Group,"801 17th Ave South, Myrtle Beach, South Carolina, USA",True
+Kyocera Group,"3-Chome, 11-1 Kohagi, Osachi, Okaya, Nagano, Japan",True
+Kyocera Group,"1810, Taki-cho, Satsumasendai, Kagoshima, Japan",True
+Kyocera Group,"Sokolovska 573, Uherske Hradiste, Czech Republic",True
+Laird Technologies,"No. 398, Yuan Dian Rd.. Xin Zhuang Industrial Zone, Shanghai, China",True
+Laird Technologies,"No. 8, Peng Feng Rd., Songjiang, Shanghai, China",True
+Laird Technologies,"Building 1, Dejin Industrial Park, Fuyuanyi Rd., Heping Community, Fuyong Town, Bao An District, Shenzhen, Guangdong, China",True
+Largan Precision Co. Ltd.,"No. 18, Tutong First Industrial District, Tutong, Changping, Dongguan, Guangdong, China",True
+Largan Precision Co. Ltd.,"No. 11, Jingke Rd., Nantun District, Taichung, Taiwan",True
+Lateral Solutions Pte Ltd.,"Building 3, No. 158, Fengjiang Rd. (Jinchang Rd.), Suzhou, Jiangsu, China",True
+Lateral Solutions Pte Ltd.,"No. 2, Wuqing New Century Economic Area, Senmiao Rd., Tianjin, China",True
+Lateral Solutions Pte Ltd.,"No. 1, 2, and 4, Jalan Gemilang 3, Kawasan Perindustrian Desa Cemerlang, 81800, Ulu Tiram, Johor, Malaysia",True
+Lens One Technology,"Lens Technology Zone, Changsha National Biomedical Industrial Estate, Changsha, Hunan, China",True
+LG Chem Ltd.,"1, LG North Rd., LG Industrial Park, Nanjing Economic & Technical Development Zone, Nanjing, Jiangsu, China",True
+LG Chem Ltd.,"8B, Ochang Scientific Local Industrial Complex, 1114-Namchon-ri Oksan-myeon, Cheongwon-gun, Ochang, Chungcheongbuk-do, Korea",True
+LG Chem Ltd.,"No.17, Hengyi Road, Nanjing Economic & Technology Development Zone, Nanjing, Jiangsu, China",True
+LG Display Co. Ltd.,"No. 59, Kaitai Rd., Science City of Guangzhou, High-Tech Industrial Development Zone, Guangzhou, Guangdong, China",True
+LG Display Co. Ltd.,"42-3, Jinpyung-dong, Gumi, Gyeongsangbuk-do, Korea",True
+LG Display Co. Ltd.,"P6E, 162 Simi-dong, Gumi, Gyeongsangbuk-do, Korea",True
+LG Display Co. Ltd.,"No. 1, LG Rd., LG Industrial Park, Nanjing Economic & Technological Development Zone, Nanjing, Jiangsu, China",True
+LG Display Co. Ltd.,"No. 59, Hengfei Rd., Economic & Technological Development Zone, Nanjing, Jiangsu, China",True
+LG Display Co. Ltd.,"1007, Deoguen-ri, Wollong-myeon, Paju, Gyeonggi-do, Korea",True
+LG Display Co. Ltd.,"No. 2, Beijing Middle Rd., Development Zone, Yantai, Shandong, China",True
+LG Innotek Co. Ltd.,"93, 2 Sunhwan-ro 971 Beon-gil, Heungdeok-gu, Cheongju, Chungcheongbuk-do, Korea",True
+LG Innotek Co. Ltd.,"50-9, Suchul-daero 7-gil, Gumi, Gyeongsangbuk-do, Korea",True
+Lite-On Technology Corp.,"No. 88, Yanghu Rd., Wujin Hi-Tech Industrial Development Zone, Changzhou, Jiangsu, China",True
+Lite-On Technology Corp.,"No. 1, Zhenan Rd., Shangjiao Section, Changan Town, Dongguan, Guangdong, China",True
+Lite-On Technology Corp.,"Romm 103, 46 Dong Peng Ave. Eastern Section, GETDD, Guangzhou, Guangdong, China",True
+Lite-On Technology Corp.,"9F. No. 232-2, Pao Chiao Rd., Hsin Tien, Taipei, Taiwan",True
+Lite-On Technology Corp.,"No. 11, Fu Yuan Rd., Wuqing Development Area, Tianjin, China",True
+Longwell Precision Co. Ltd.,"Tong Fu Yu Rd., Tang Xia Chong 2nd Industrial Park, Song Gang, Paoan Ward, Shenzhen, Guangdong, China",True
+Luen Fung Group,"Yuquan Industrial District, Fenggang Town, Dongguan, Guangdong, China",True
+LUXSHARE-ICT,"No. 158, Jinchang Rd., Jinxi Town, Kunshan, Jiangsu, China",True
+Macronix International Co. Ltd.,"No. 16, Li-Hsin Rd., Science Park, Hsinchu, Taiwan",True
+Macronix International Co. Ltd.,"No. 19, Li-Hsin Rd., Science Park, Hsinchu, Taiwan",True
+Macronix International Co. Ltd.,"No. 8, Creation Rd. IV, Science Park, Hsinchu, Taiwan",True
+Marian Inc.,"Unit 1B, Suchun Industrial Square, 428 Xinglong St., Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+Maxim Integrated Products Inc.,"First Phil. Industrial Park, Sto. Tomas, Batangas, Philippines",True
+Maxim Integrated Products Inc.,"14320 SW Jenkins Rd., Beaverton, Oregon, USA",True
+Maxim Integrated Products Inc.,"Gateway Business Park, Special Export Processing Zone, Baranggay Javalera, Gen Trias, Cavite, Philippines",True
+Maxim Integrated Products Inc.,"700/114 Amata Nakorn Industrial Estate, Moo 5 Tambon Klong Tamru, Muang District, Chonburi, Bangkok, Thailand",True
+Maxim Integrated Products Inc.,"4401 South Beltwood Parkway, Dallas, Texas, USA",True
+Maxim Integrated Products Inc.,"9651 Westover Hills Blvd, San Antonio, Texas, USA",True
+Maxim Integrated Products Inc.,"160 Rio Robles, San Jose, California, USA",True
+Maxim Integrated Products Inc.,"3725 N 1st St., San Jose, California, USA",True
+Maxim Integrated Products Inc.,"6F, No. 66, Sec.1, Shin Sheng N. Rd., Taipei, Taiwan",True
+Merry Electronics,"No. 800, Kang Yuan Rd., Xiang Cheng Economic Development Zone, Suzhou, Jiangsu, China",True
+Micron Technology Inc.,"8000 South Federal Way, Boise, Idaho, USA",True
+Micron Technology Inc.,"1320, Industrial Zone, Kiryat Gat, Israel",True
+Micron Technology Inc.,"9600 Godwin Dr., Manassas, Virginia, USA",True
+Micron Technology Inc.,"1, North Cost Dr., Singapore",True
+Micron Technology Inc.,"990, Bendemeer Rd., Singapore",True
+Micron Technology Inc.,"No. 1, Woodlands Industrial Park Dr., Singapore",True
+Micron Technology Inc.,"No. 8, Ang Mo Kio, Avenue 12, Singapore",True
+Micron Technology Inc.,"No. 429-1, Sanfong Rd, Houli District Central Taiwan Science Park, Taichung, Taiwan",True
+Micron Technology Inc.,"667, Fuhsing 3rd Rd, Hwa Ya Technology Park, Guishan Township, Taoyuan, Taiwan",True
+Micron Technology Inc.,"Zone B of Shaanxi Xi'an Export Processing Zone, Xin Xi Ave, Xi'an, Shanxi, China",True
+Minebea Co. Ltd.,"5/2 Moo 8, Phaholyothin Rd., Km.149 Tambon Nikhom Sang Ton-Eng, Amphoe Muang, Muang Lopburi, Lopburi, Thailand",True
+Mitsumi Electric Co. Ltd.,"1601, Sakai, Atsugi-shi, Kanagawa, Japan",True
+Mitsumi Electric Co. Ltd.,"Luzon Avenue, Bataan Economic Zone Mariveles, Bataan, Philippines",True
+Mitsumi Electric Co. Ltd.,"1007-39, Izumisawa, Chitose, Hokkaido, Japan",True
+Mitsumi Electric Co. Ltd.,"MRI Special Economic Zone, Sabang, Davao, Cebu, Philippines",True
+Mitsumi Electric Co. Ltd.,"No. 23, Xiang Jiang 1 Rd. Qingdao Economic & Technical Development Zone, Qingdao, Shandong, China",True
+Mitsumi Electric Co. Ltd.,"1-1059-5, Tachiyazawa, Yamagata, Japan",True
+Molex Inc.,"27, Guangshun St.,Dalian Economic and Technical Development Zone, Dalian, Liaoning, China",True
+Molex Inc.,"751-7, Jangnok-dong, Gwangsan-gu, Gwangju, Korea",True
+Molex Inc.,"1351-2, Sumiyoshi, Yoshida, Haibara-gun, Shizuoka, Japan",True
+Molex Inc.,"3949-3, Kawanishi, Kanoya, Kagoshima, Japan",True
+Molex Inc.,"700 Kingbird Rd., Lincoln, Nebraska, USA",True
+Molex Inc.,"801 Murphy Dr., Maumelle, Arkansas, USA",True
+Molex Inc.,"Calzada Industrial Nuevo Nogales #1115, Nogales, Sonora, Mexico",True
+Molex Inc.,"2607, Jalan Perusahaan Kawasan Perindustrian Perai, Perai, Penang, Malaysia",True
+Molex Inc.,"No. 889, Ying Lun Rd., Wai Gao Qiao Free Trade Zone, Shanghai, China",True
+Molex Inc.,"No. 110, International Rd., Jurong Town, Singapore",True
+Multi-Fineline Electronix Inc.,"8-12, Kexin Rd., Chengdu Hi-Tech Comprehensive Bonded Zone, Chengdu, Sichuan, China",True
+Multi-Fineline Electronix Inc.,"No. 68, Nanhu Rd., Dongwu Industrial Park, Wuzhong Economic Development Zone, Suzhou, Jiangsu, China",True
+Murata Manufacturing Co. Ltd.,"10-28, Hananomori 2-chome, Awara, Fukui, Japan",True
+Murata Manufacturing Co. Ltd.,"1020, Takibe, Toyoshina, Azumino, Nagano, Japan",True
+Murata Manufacturing Co. Ltd.,"Plot 15, Bemban Industrial Park Jalan Bemban, Batu Gajah, Perak, Malaysia",True
+Murata Manufacturing Co. Ltd.,"52, Yanagibashi, Yanagibashimachi, Hakui, Ishikawa, Japan",True
+Murata Manufacturing Co. Ltd.,"Chi-18, Sodanimachi, Hakusan, Ishikawa, Japan",True
+Murata Manufacturing Co. Ltd.,"1-3, Thang Long Industrial Park, Dong Anh District, Hanoi, Vietnam",True
+Murata Manufacturing Co. Ltd.,"4-1, Higashiokino 4-chome, Higashiomi, Shiga, Japan",True
+Murata Manufacturing Co. Ltd.,"2308, Kaminaoe, Hikawa-cho, Hikawa-gun, Shimane, Japan",True
+Murata Manufacturing Co. Ltd.,"Saigon-Linh Trung Export Processing Zone No. 1, Hamlet4, Linh Trung Ward, Thu Duc District, Ho Chi Minh, Binh Duong, Vietnam",True
+Murata Manufacturing Co. Ltd.,"Chi-53, Ohmachi, Anamizu-Machi, Housu, Ishikawa, Japan",True
+Murata Manufacturing Co. Ltd.,"JI. Maligi VIII Lot S-4, Kawasan Industri KIIC, Desa Margakaya, Kecamatan Teluk Jambe, Barat Karawang, Kabupaten Bekasi, Jawa Barat, Indonesia",True
+Murata Manufacturing Co. Ltd.,"93, Hikarimachi, Komatsu, Ishikawa, Japan",True
+Murata Manufacturing Co. Ltd.,"Northern Region Industrial Estate, 63 Moo 4, Tambol Ban Klang, Muang Lamphun, Lamphun, Thailand",True
+Murata Manufacturing Co. Ltd.,"Ozowara, Echizen-cho, Nyu-gun, Fukui, Japan",True
+Murata Manufacturing Co. Ltd.,"2-82, 1-chome, Miyukicho, Sabae, Fukui, Japan",True
+Murata Manufacturing Co. Ltd.,"77, Fukumoto, Oku-cho, Setouchi, Okayama, Japan",True
+Murata Manufacturing Co. Ltd.,"15, Cuijing Rd., Shenzhen Grand Industrial Zone, Pingshan New District, Shenzhen, Guangdong, China",True
+Murata Manufacturing Co. Ltd.,"200, Yishun Avenue 7, Singapore",True
+Murata Manufacturing Co. Ltd.,"225, Chung Chin Rd., Taichung, Taiwan",True
+Murata Manufacturing Co. Ltd.,"No. 69, Technology 7th Rd., Hwaya Technology Park, Kuei Shan Hsiang, 333, Taoyuan, Taiwan",True
+Murata Manufacturing Co. Ltd.,"Lot No. 55, Long Jiang Industrial Park, Tan Lap Ward, Phuoc Tan District, Tien Giang, Vietnam",True
+Murata Manufacturing Co. Ltd.,"11-1, Nakae 4-chome, Sanuma, Hasama-cho, Tome, Miyagi, Japan",True
+Murata Manufacturing Co. Ltd.,"345, Uwano, Toyama, Japan",True
+Murata Manufacturing Co. Ltd.,"623, Yatsuomachisekido, Toyama, Japan",True
+Murata Manufacturing Co. Ltd.,"No. 6, Xingchuang 1st Rd., Wuxi Export Processing Zone B Zone, Wuxi, Jiangsu, China",True
+Nan Ya Printed Circuit Board Corp.,"201, ChangJiang South Rd., KunShan Economic & Technical Development Zone, Kunshan, Jiangsu, China",True
+Nan Ya Printed Circuit Board Corp.,"No. 338, Sec. 1 Nankan Rd., Taoyuan, Taiwan",True
+NEC TOKIN Corp.,"78/2 Moo1 Wellgrow Industrial Estate, Bangna-Trad KM. 36 Rd., Homsil, Bang Pakong, Chachoengsao, Thailand",True
+NEC TOKIN Corp.,"Long Binh Techno Park (LOTECO) EPZ, Long Binh Ward, Bien Hoa, Dong Nai, Vietnam",True
+NEC TOKIN Corp.,"Nyuzen 560, Shimo Niikawa-gun, Nyuzen, Toyama, Japan",True
+Nichia Corp.,"3, Nyuta, Aratano-Cho, 1-19, Tatsumi-Cho, Anan, Tokushima, Japan",True
+Nichia Corp.,"38-2, Kawamukoichi, Ichiba, Oasa-Cho, Naruto, Tokushima, Japan",True
+Nidec Corp.,"Jl Beringin Lot 9, Batamindo Industrial Park Mukakuning, Batam, Indonesia",True
+Nidec Corp.,"119, East Main Avenue, Laguna Technopark Special Economic Zone, Binan, Laguna, Philippines",True
+Nidec Corp.,"136, North Science Avenue Extension, Laguna Technopark Special Economic Zone, Binan, Laguna, Philippines",True
+Nidec Corp.,"Main Avenue, Cor. Binary St., Light Industry & Science Park of the Philippines, Special Economic Zone, Bo. Diezmo, Cabuyao, Laguna, Philippines",True
+Nidec Corp.,"12, HuanCheng North Rd., Hongye (138), Industrial District, Tangxia Town, Dongguan, Guangdong, China",True
+Nippon Mektron Ltd.,"560 Moo2, Bangpa-in Industrial Estate,Udomsorayuth Rd.,T.Klong-Jik, Bang Pa-In, Ayutthaya, Thailand",True
+Nippon Mektron Ltd.,"2626-19, Sunayama, Kamisu, Ibaraki, Japan",True
+Nippon Mektron Ltd.,"No. 20, Guanghua Rd., Sanlong Village, Daliao Township, Kaohsiung, Taiwan",True
+Nippon Mektron Ltd.,"No. 48, Chung-Heng St., Hsiao-Kang District, Kaohsiung, Taiwan",True
+Nippon Mektron Ltd.,"No. 1, Shuang Deng Rd. Weiting Town, Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+Nippon Mektron Ltd.,"166-21, Riao PuLli, Matou Chen, Tainan, Taiwan",True
+Nippon Mektron Ltd.,"1650-11-1, Okuhara-cho, Ushiku, Ibaraki, Japan",True
+Nippon Mektron Ltd.,"No. 2006, Huang Yang Rd., Doumen Town Doumen District, Zhuhai, Guangdong, China",True
+Nissha Printing Co. Ltd.,"50, Kamiyobe, Yobe-ku, Himeji, Hyogo, Japan",True
+Nissha Printing Co. Ltd.,"49-1 Uwagimachi, Daishoji, Kaga, Ishikawa, Japan",True
+Nisshin Steel Co. Ltd.,"11-1, Showa-cho, Kure, Hiroshima, Japan",True
+Nisshin Steel Co. Ltd.,"4976, Nomuraminami-cho, Shunan, Yokkaichi, Japan",True
+Nisshin Steel Co. Ltd.,"Shin Kokusai Bldg., 4-1, Marunouchi 3 Chome, Chiyoda-Ku, Tokyo, Japan",True
+Nitto Denko Corp.,"1043, Gupo-dong, Gumi, Gyeongsangbuk-do, Korea",True
+Nitto Denko Corp.,"455-6, Hongo, Minogo-cho, Onomichi, Hiroshima, Japan",True
+Nitto Denko Corp.,"474, Hyeongok-Ri, Cheongbuk-myeon, Pyeongtaek, Gyeonggi-do, Korea",True
+Nitto Denko Corp.,"No. 210, North Riying Rd., Wai Gao Qiao Free Trade Zone, Shanghai, China",True
+Nitto Denko Corp.,"Bangkai Rd., Guangming Hi-Tech Park, Baoan, Shenzhen, Guangdong, China",True
+Nitto Denko Corp.,"No. 41 & 42 Bldg, Cuigang Industrial Five Zone Huaide, Fuyong, Baoan District, Shenzhen, Guangdong, China",True
+Nitto Denko Corp.,"No. 468, Suhong Zhong Rd., Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+Nitto Denko Corp.,"18, Hirayama Nakahara, Toyohashi, Aichi, Japan",True
+NXP Semiconductors N.V.,"303 Moo 3 Chaengwattana Rd., Laksi, Bangkok, Thailand",True
+NXP Semiconductors N.V.,"Philips Avenue, Light Industry and Science Park, Diezmo, Cabuyao, Laguna, Philippines",True
+NXP Semiconductors N.V.,"Tianmei Industrial North District A Section, Huangjiang Town, Dongguan, Guangdong, China",True
+NXP Semiconductors N.V.,"Stresemannallee 101, Hamburg, Germany",True
+NXP Semiconductors N.V.,"Bramhall Moor Lane, Stockport, Cheshire, Hazel Grove, United Kingdom",True
+NXP Semiconductors N.V.,"10 Chin 5th Rd., N.E.P.Z., Kaohsiung, Taiwan",True
+NXP Semiconductors N.V.,"Gertsweg 2, Nijmegen, Netherlands",True
+NXP Semiconductors N.V.,"PT No. 12687, Tuanku Jaafar, Industrial Park, Seremban, Negeri Sembilan, Malaysia",True
+NXP Semiconductors N.V.,"No. 188, Su Hong Xi Rd., Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+OmniVision Technologies,"Unit 1-2, 8th Floor, Ever Gain Plaza, Tower 1, 88 Container Port Rd., Kwai Chung, Hongkong, China",True
+OmniVision Technologies,"10F, No. 2, Lane 258, Rueiguang Rd., Neihu District, Taipei, Taiwan",True
+OmniVision Technologies,"F, No. 323, Yang Kuan St., Nei Hu District, Taipei, Taiwan",True
+OMRON Precision Technology Co. Ltd.,"14-17, 20/F, Fushi Industrial Zone, Binghe West Rd, Qinhu Industry Region, Qing Xi, Dongguan, Guangdong, China",True
+OMRON Precision Technology Co. Ltd.,"6th Factory Building, Dianzixinxi Chuangyeyuanqu, Baishazhou Industrial Zone, HengYang, Hunan, China",True
+OMRON Precision Technology Co. Ltd.,"No. 252, Gang Chang Rd., Gong Bei, Zhuhai, Guangdong, China",True
+OSRAM Opto Semiconductor GmbH,"Bayan Lepas Free Industrial Zone Phase 1, Bayan Lepas, Penang, Malaysia",True
+OSRAM Opto Semiconductor GmbH,"Leibnizstraße 4, Regensburg, Germany",True
+Panasonic Corp.,"No. 1/7 Moo 5, Rojana Industrial Park, T.Kamham, A. Uthai, Amphur Uthai, Phra Nakhon Si Ayutthaya, Thailand",True
+Panasonic Corp.,"180, Omori Anpachi Machi, Anpachi Gun, Gifu, Japan",True
+Panasonic Corp.,"Aza 5 li, Awara, Fukui, Japan",True
+Panasonic Corp.,"14, Jiu Xiam Qiao Rd., Beijing, China",True
+Panasonic Corp.,"1037-2, Kamiosatsu, Chitose, Hokkaido, Japan",True
+Panasonic Corp.,"JI.Raya Jakarta Bogor, km.35, Cimanggis, Depok, Indonesia",True
+Panasonic Corp.,"1-1 SANYO-cho, Daito, Osaka, Japan",True
+Panasonic Corp.,"401, Sadamasa, Fukui, Japan",True
+Panasonic Corp.,"1786-6, Tokushige, Ijuin-Cho, Hioki, Kagoshima, Japan",True
+Panasonic Corp.,"Tamiyaji, Tamaki, Watarai, Ise, Mie, Japan",True
+Panasonic Corp.,"Kawasan Industri MM2100 Blok.O-1-1 Kecamatan Cikarang Barat, Kabupaten Bekasi, Jawa Barat, Indonesia",True
+Panasonic Corp.,"1006, Kadoma, Kadoma, Osaka, Japan",True
+Panasonic Corp.,"55-12, Hama, Osumi, Kyotanabe, Osaka, Japan",True
+Panasonic Corp.,"369, Nogifukutomi-cho, Matsue, Shimane, Japan",True
+Panasonic Corp.,"1-1, Matsushita-Cho, Moriguchi, Japan",True
+Panasonic Corp.,"4-5-1, Kurihara, Myoko, Niigata, Japan",True
+Panasonic Corp.,"2111, Ueda, Oita, Japan",True
+Panasonic Corp.,"Koh 3000, Oaza Chiya Ojiya-sh, Ojiya, Niigata, Japan",True
+Panasonic Corp.,"217, Omachi-cho, Omachi, Saga, Japan",True
+Panasonic Corp.,"1-1-1, Sakata, Oizumi-Machi, Ora-gun, Ora, Gunma, Japan",True
+Panasonic Corp.,"No. 49, Tokyo Rd., Free Trade Zone, Qingdao, Shandong, China",True
+Panasonic Corp.,"No. 1, Jalan Jemuju 16/13, Shah Alam, Selangor, Malaysia",True
+Panasonic Corp.,"No. 2, 2nd Donghuan Rd, 10th Yousong Industrial District, Longhua, Bao'an, Shenzhen, Guangdong, China",True
+Panasonic Corp.,"No. 3, Bedok South Rd., Singapore",True
+Panasonic Corp.,"No. 348, Lushan Rd, Suzhou New District, Suzhou, Jiangsu, China",True
+Panasonic Corp.,"No. 666, Lushan Rd., New District, Suzhou, Jiangsu, China",True
+Panasonic Corp.,"No. 1, Xinghua 5th Branch, XiQing Economic Development Zone, Tianjin, China",True
+Panasonic Corp.,"271, Higashi Kaihatsu, Tonami, Toyama, Japan",True
+Panasonic Corp.,"1, Tadachi Izushi-cho, Toyooka, Hyogo, Japan",True
+Panasonic Corp.,"1111-1, Shimokannuki - Kawanabe, Tsuyama, Okayama, Japan",True
+Panasonic Corp.,"25, Kowata Nishinaka, Uji, Kyoto, Japan",True
+PCH International,"2-3/F, Building A West, AnHongJI Industrial Estate, Huaxing Rd., Longhua Town, Bao'an District, Shenzhen, Guangdong, China",True
+PCH International,"Hualian industrial Zone, Huaning Rd., Dalang community, Baoan district, Yi Fenghua Industrial Zone, Shenzhen, Guangdong, China",True
+PCH International,"Zhongjian Industry District, Huaxing Rd., Dalang, Longhua, Bao'an District, Chungkin Industrial Estate, Shenzhen, Guangdong, China",True
+PCH International,"Zhongtianyuan Logistics Centre, Taohua Rd., Futian Free Trade Zone, Shenzhen, Guangdong, China",True
+Pegatron Corp.,"No. 88, Kaedar Rd., Kunshan High-tech Industrial Park, Kunshan, Jiangsu, China",True
+Pegatron Corp.,"No. 113, Lane 171, Lin-sheng Rd., Tinglin Town Jinshan District, Shanghai, China",True
+Pegatron Corp.,"No. 1167, Ronghua Rd., Songjiang District, Shanghai, China",True
+Pegatron Corp.,"No. 3636, Shengang Rd., Xinqiao Town, Songjiang Industrial Zone, Shanghai, China",True
+Pegatron Corp.,"No. 3768, XiuYan Rd., KangQiao Town, Pudong New District, Shanghai, China",True
+Pegatron Corp.,"No. 88, Tinghua Rd., Tinlin Town, Jinshan District, Shanghai, China",True
+Pegatron Corp.,"No. 233, JinFeng Rd., Suzhou, Jiangsu, China",True
+Pegatron Corp.,"No. 9, Chunqiu Rd., Panyang Industrial Park, Xiangcheng District, Suzhou, Jiangsu, China",True
+Philips Lumileds Lighting Co.,"No. 3, Lintang Bayan Lepas 8, Kawasan Perindustrian Bayan Lepas, Fasa 4, Mukim 12, Bayan Lepas, Penang, Malaysia",True
+Philips Lumileds Lighting Co.,"370 West Trimble Rd., San Jose, California, USA",True
+Philips Lumileds Lighting Co.,"190, Yishun Avenue 7, Singapore",True
+Pioneer Material Precision Tech,"No. 1, Jiao Ping Avenue, Ke Yuan Cheng Industrial Park, Tangxia Town, Dongguan, Guangdong, China",True
+Pioneer Material Precision Tech,"No. 45, Nan Hu Rd., Wuzhong Economic Development Zone, Suzhou, Jiangsu, China",True
+Plastron Precision Corp.,"A4, B Area, Minzhu West Industry Zone, Jingcheng Rd., Shajin Town, Shenzhen, Guangdong, China",True
+Prent Corp.,"No. 2275, Chengliu Zhonglu, Jiading District, Shanghai, China",True
+Primax Electronics Ltd.,"Er Village, Liu Wu District, Shek Kit Town, Dongguan, Guangdong, China",True
+Primax Electronics Ltd.,"No. 66, Qin Kun Rd., Yu Shan Town, Kunshan, Jiangsu, China",True
+Quanta Computer Inc.,"No. 8, JinZhou Rd., Hightech Industrial park, ChangShu Economic Development Zone, Changshu, Jiangsu, China",True
+Quanta Computer Inc.,"44350 Nobel Dr., Fremont, California, USA",True
+Quanta Computer Inc.,"No. 68, Sanzhuang Rd., Songjiang Export Processing Zone, Shanghai, China",True
+Radiant Opto Electronics Corp.,"No. 11, Xinrui Rd., Science City of Guangzhou High-Tech Industrial Development Zone, Guangzhou, Guangdong, China",True
+Radiant Opto Electronics Corp.,"No. 35, Hengtong Rd., Nanjing Economic & Technical Development Zone, Nanjing, Jiangsu, China",True
+Radiant Opto Electronics Corp.,"No. 1621, Jiang Xin East Rd, Economic Developing Area, Suzhou, Jiangsu, China",True
+Renesas Electronics Corp.,"Bayan Lepas Free, Industrial Zone, Bayan Lepas, Penang, Malaysia",True
+Renesas Electronics Corp.,"1, Ohmaki, Harue-Cho, Harue, Fukui, Japan",True
+Renesas Electronics Corp.,"Horiguchi 751, Hitachi-Naka, Ibaraki, Japan",True
+Renesas Electronics Corp.,"4617, Nishiyahata, Kai, Yamanashi, Japan",True
+Renesas Electronics Corp.,"145-1, Aza-Nakajima, Nanae-cho, Kameda, Hokkaido, Japan",True
+Renesas Electronics Corp.,"275, Koizumi, Yamamichi Koizumi, Tsuruta machi, Kitatsugaru, Aomori, Japan",True
+Renesas Electronics Corp.,"Lot 54, Kulim, Industrial Estate Sg, Seluang, Kulim, Kedah, Malaysia",True
+Renesas Electronics Corp.,"9-1, Seiran 2-Chome, Otsu, Shiga, Japan",True
+Renesas Electronics Corp.,"176, JinJiHuLu, Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+Renesas Electronics Corp.,"111, Nishiyokote-machi, Takasaki, Gunma, Japan",True
+Renesas Electronics Corp.,"1-11-73, Takarada, Tsyruoka, Yamagata, Japan",True
+Renesas Electronics Corp.,"89, Nagasaki, Shiranui-cho, Uki, Kumamoto, Japan",True
+RF Micro Devices Inc.,"17, Middle Tongji Rd., Beijing, China",True
+RF Micro Devices Inc.,"7908 Piedmont Triad Pkwy, Greensboro, North Carolina, USA",True
+ROHM Co. Ltd.,"People's Technology Complex Special Economic Zone, Carmona, Cavite, Philippines",True
+ROHM Co. Ltd.,"883, Kamikitajima Ooaza, Chikugo, Fukuoka, Japan",True
+ROHM Co. Ltd.,"42-2, Munpyong-dong, Daedeok-gu, Daejeon, Korea",True
+ROHM Co. Ltd.,"No. 20, Four St. East & North, Dalian Economic & Technical Development Zone, Dalian, Liaoning, China",True
+ROHM Co. Ltd.,"100, Tomioka, Kasaoka, Kasaoka, Fukuoka, Japan",True
+ROHM Co. Ltd.,"Lot 1320, Kawasan Perindustrian, Pengkalan Chepa ll, Padang Tembak, 16100 Kota Bharu, Kelantan, Malaysia",True
+ROHM Co. Ltd.,"101/94, 102 Navanakom Industrial Zone, Moo 20, Phaholyothin Rd., Tambol Khlong-Nueng, Khlong Luang, Pathum Thani, Thailand",True
+ROHM Co. Ltd.,"837-1, Hatakeda Aza Inadou Ooaza, Kukuhashi, Fukuoka, Japan",True
+ROHM Co. Ltd.,"21, Saiin Mizosaki-cho, Ukyo-ku, Kyoto, Japan",True
+ROHM Co. Ltd.,"371-11, Gasan-Dong, Gumcheon-ku, Seoul, Korea",True
+ROHM Co. Ltd.,"No. 7, Weisan Rd., Micro-Electronics Industrial Park, Jingang Highway, Xiqing District, Tianjin, China",True
+ROHM Co. Ltd.,"10, Kitahara Tsukuba Ibaraki, Tsukuba, Yamagata, Japan",True
+RR Donnelley & Sons Co.,"No. 888, Ganghua Rd., North Area of Chengdu Modern Industrial Park, Pixian, Chengdu, Sichuan, China",True
+RR Donnelley & Sons Co.,"No. 28, Huang Sha He West Rd.,Xin Jiu Wei Village, Liaobu Town, Dongguan, Guangdong, China",True
+RR Donnelley & Sons Co.,"No. 7699, Songze Avenue, Qingpu Industrial Zone, Shanghai, China",True
+SABIC Innovative Plastics,"No. 1, Sulia Rd., Nansha, Panyu District, Guangzhou, Guangdong, China",True
+SABIC Innovative Plastics,"1 Lexan Lane, Mt. Vernon, Indiana, USA",True
+SABIC Innovative Plastics,"No. 56, Rd. Aidu, Waigaoqiao Free Trade Zone, Shanghai, China",True
+Salcomp Co. Ltd.,"No. 69, Salcomp Rd., Furong Industrial Area Xinqiao, Shajing, Baoan District, Shenzhen, Guangdong, China",True
+Samsung Electro-Mechanics Co. Ltd.,"Wellgrow Industrial Estate, 93 Moo 5 T. Bangsamak, Bang Pakong, Chachoengsao, Thailand",True
+Samsung Electro-Mechanics Co. Ltd.,"114, Noksansaneopjung Rd., Kangseo-gu, Busan, Korea",True
+Samsung Electro-Mechanics Co. Ltd.,"618-270 , HDI Department, 1623-2 Nocksan Industrial Complex, Song Jeong-Dong, Kangseo-Ku, Busan, Korea",True
+Samsung Electro-Mechanics Co. Ltd.,"Block 5, Calamba Premiere International Park, Barangay Batino, Calamba, Laguna, Philippines",True
+Samsung Electro-Mechanics Co. Ltd.,"Hengkeng Management Area Liaobu Town, Dongguan, Guangdong, China",True
+Samsung Electro-Mechanics Co. Ltd.,"314, Maetan 3-Dong, Yeongtong-Gu, Suwon, Gyeonggi-do, Korea",True
+Samsung Electro-Mechanics Co. Ltd.,"206, Cheomdansaneop Rd., Youngtong-Gu, Suwon, Kynuggi-do, Korea",True
+Samsung Electro-Mechanics Co. Ltd.,"27, Heiniu, Cheng Rd., Tianjin, China",True
+Samsung Electro-Mechanics Co. Ltd.,"No. 1, Weisan Rd., Micro-Electronics Industrial Park, Xiqing District, Tianjin, China",True
+Samsung Electro-Mechanics Co. Ltd.,"581, Myunghak-Li, Dong-Myon, Yeongi-gun, Yeongi-gun, Chungcheongnam-do, Korea",True
+Samsung Electronics Co. Ltd.,"158, Baebang-Ro Baebang-Eup, Asan, Chungcheongnam-do, Korea",True
+Samsung Electronics Co. Ltd.,"181, Samsung St., Tangjeong-myeon, Asan, Chungcheongnam-do, Korea",True
+Samsung Electronics Co. Ltd.,"San No. 723, Buksu-Ri, Baibang EUP, Asan, Chungcheongnam-do, Korea",True
+Samsung Electronics Co. Ltd.,"12100 Samsung Blvd, Austin, Texas, USA",True
+Samsung Electronics Co. Ltd.,"510, Seongseong-Dong, Seobuk-Gu, Cheonan, Chungcheongnam-do, Korea",True
+Samsung Electronics Co. Ltd.,"Winnerway Industrial Area, Nancheng, Dongguan, Guangdong, China",True
+Samsung Electronics Co. Ltd.,"445-701, Samsung Electronics Co., Banwol-dong, Hwaseong, Gyeonggi-do, Korea",True
+Samsung Electronics Co. Ltd.,"318, Fang Zhou Rd., Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+Samsung Electronics Co. Ltd.,"San No. 24, Nongseo-dong, Giheung-gu, Yongin, Gyeonggi-do, Korea",True
+Samsung SDI. Co. Ltd.,"508, Seongseong-Dong, Seobuk-gu, Cheongju, Chungcheongbuk-do, Korea",True
+Samsung SDI. Co. Ltd.,"No. 1, Qingling Rd., Yat-Sen, Scientific Industrial Park, Wuqing Development Zone, Tianjin, China",True
+Sandisk Corp.,"No. 388, East Jiang Chuan Rd., Minhang District, Shanghai, China",True
+Sandisk Corp.,"800, Yamonoisshiki-Cho, Yokkaichi, Mie, Japan",True
+Santak Holdings Ltd.,"No 23, Wangzhuang Industrial Park III, Jingyi Road, Wuxi New District, Wuxi, Jiangsu, China",True
+Santak Holdings Ltd.,"Building 3 & 4, Phase II, Wangzhuang Industrial Park, Wuxi, Jiangsu, China",True
+Santak Holdings Ltd.,"Zone 115, Block 2, Wuxi National New High-Tech Development District, Wuxi, Jiangsu, China",True
+Seagate Technologies,"90 Moo 9 Tampol Sungnoen, Sungnoen, Nakhon Ratchasima, Thailand",True
+Seagate Technologies,"No. 200, SU Hong Zhong St., Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+Seagate Technologies,"Wuxi-Singapore Industrial Park, No. 2, Xing Chuang Er Lu, Wuxi, Jiangsu, China",True
+Seiko Epson Corp.,"Plot 290, 291 & 292 Phase 3, Free Industrial Zone, Bayan Lepas, Penang, Malaysia",True
+Seiko Epson Corp.,"4-44, Kaigan, Kawaragi, Hachinohe, Aomori, Japan",True
+Seiko Epson Corp.,"8548, Nakaminowa, Minowa-machi, Kami-Ina-gun, Nagano, Japan",True
+Seiko Epson Corp.,"Lot 1, Jalan SS 8/4, Sungai Way Free Trade Zone, Petaling Jaya, Selangor, Malaysia",True
+Seiko Epson Corp.,"239-239/1 Moo 7, Gateway City Industrial Estate, T. Hua Samrong, Pleang Yao, Chachoengsao, Thailand",True
+Seiko Epson Corp.,"Lot 1, Jalan Persiaran Industri, Taman Perindustrian, Sri Damansara, Sungai Buloh, Kuala Lumpur, Malaysia",True
+Seiko Epson Corp.,"No. 144, Hua Shan Rd., Suzhou New District, Suzhou, Jiangsu, China",True
+Seiko Epson Corp.,"1, Dannoue Iwasaki-aza, Yuzawa, Akita, Japan",True
+Semiconductor Components Industries LLC,"Lot C3-10, Baragay Punta, Carmelray Industrial Park II, Special Economic Zone, Calamba, Laguna, Philippines",True
+Semiconductor Components Industries LLC,"Bo Maduya, Governor’s Dr., Carmona, Cavite, Philippines",True
+Semiconductor Components Industries LLC,"Gresham Fab, 23400 NE Glisan St., Gresham, Oregon, USA",True
+Semiconductor Components Industries LLC,"27A People West Rd., Leshan, Sichuan, China",True
+Semiconductor Components Industries LLC,"Westerring 15, B-9700, Oudenaarde, Belgium",True
+Semiconductor Components Industries LLC,"2300 West Buckskin Rd., Pocatello, Idaho, USA",True
+Semiconductor Components Industries LLC,"Boženy Němcové 1720, Rožnov pod Radhoštěm, Czech Republic",True
+Semiconductor Components Industries LLC,"Lot 122, Senawang Industrial Estate, Seremban, Negeri Sembilan, Malaysia",True
+Semiconductor Components Industries LLC,"Lot 55, Senawang Industrial Estate, Seremban, Negeri Sembilan, Malaysia",True
+Semiconductor Components Industries LLC,"Block 6, Hua Jian Industrial Building, Shekou Industrial Zone, Shenzhen, Guangdong, China",True
+Sharp Corp.,"Jin Long Industrial Area, San Zhong District, Qingxi Town, Dongguan, Guangdong, China",True
+Sharp Corp.,"No. 7, VSIP II, St. 7, Vietnam-Singapore Park II, Hoa Phu Ward, Ho Chi Minh, Binh Duong, Vietnam",True
+Sharp Corp.,"464, Kohgawa, Shiraki-cho, Kameyama, Mie, Japan",True
+Sharp Corp.,"320-97, Muso-cho, Matsue, Shimane, Japan",True
+Sharp Corp.,"1177-1, Gosana, Taki-cho, Taki-gun, Mie, Japan",True
+Sharp Corp.,"2, Changjiang Rd., Wuxi, Jiangsu, China",True
+Sharp Corp.,"A2 Facility, B22 -A Land Plot, Wuxi National High and New Tech Industrial Development Zone, Wuxi, Jiangsu, China",True
+Sharp Corp.,"No. 21, Zhujiang Rd., Wuxi National High and New Tech Industrial Development Zone, Wuxi, Jiangsu, China",True
+Sharp Corp.,"No. 75, Xinmei Rd., New District, Wuxi, Jiangsu, China",True
+Shenzhen Desay Battery Technology Co. Ltd.,"No. 6, Zhongkai Hightech Industrial Development Zone, Huizhou, Guangdong, China",True
+Shenzhen Yuto Printing (Holdings) Ltd.,"Industrial Hatching Park, Business Gathering Zone, Wulu Rd. Center, Changge, Henan, China",True
+Shenzhen Yuto Printing (Holdings) Ltd.,"No. 1, Shihuan Rd., Shuitian Industrial Area, Shilongzai, Shiyan Town, Shenzhen, Guangdong, China",True
+Shicoh Co. Ltd.,"Export Processing Zone, 38 Rong Teng Rd., Songjiang, Shanghai, China",True
+Shin Zu Shing Co. Ltd.,"No. 174, Jyunying St., Shulin District, Taipei, Taiwan",True
+Simplo Technology Co. Ltd.,"No. 2, Dong Nan Ave., Changshu, Jiangsu, China",True
+Skyworks Solutions Inc.,"Calzada Gomez Morin 1690, Col. Rivera CP, Mexicali, Baja California, Mexico",True
+Skyworks Solutions Inc.,"2427 West Hillcrest Dr., Newbury Park, California, USA",True
+Skyworks Solutions Inc.,"20 Sylvan Rd., Woburn, Massachusetts, USA",True
+SMK Corp.,"1st East Turning, Zhenxing Rd., Gaobu Town, Dongguan, Guangdong, China",True
+SMK Corp.,"1-5F, Section 3 Bldg 1, Honghualing Industrial South area, Xili Town, Nanshan District, Shenzhen, Guangdong, China",True
+SMK Corp.,"1-1, Yasuuchi, Yatsuo-Machi, Toyama, Japan",True
+Solvay Specialty Polymers,"Jiangsu High-Tech Fluorochemical Industrial Park, Haiyu Town, Changshu, Jiangsu, China",True
+Solvay Specialty Polymers,"17005 State Route 7, Marietta, Ohio, USA",True
+Solvay Specialty Polymers,"Industriepark de Bruwaan 9, 9700 Oudenaarde. Routebeschrijving, Oudenaarde, Belgium",True
+Sony Corp.,"99/7, Moo3 Bangna-Trad Rd,km3 Tambon Bangsaothong, Amphur Bangsaothong, Bangna, Samutprakarn, Thailand",True
+Sony Corp.,"18, Satuki-cho, Kanuma-shi, Tochigi, Japan",True
+Sony Corp.,"4000-1, Kikuyomachi Haramizu, Kikuchigun, Kumamoto, Japan",True
+Sony Corp.,"5-1, Noguchi Kita, Kokubu, Kirishima-shi, Kagoshima, Japan",True
+Sony Corp.,"Ha-86 Akai-machi, Nomi, Ishikawa, Japan",True
+Sony Corp.,"No. 99, Jiang Tian Rd. East, Songjiang Industrial Development Zone, Shanghai, China",True
+Sony Corp.,"1, Tuas Rd., Singapore",True
+Sony Corp.,"No. 27, Changjiang Rd., New District, Wuxi, Jiangsu, China",True
+STANLEY Engineered Fastening,"A Block, 4th Industrial District, BiTou Community, BaoAn, Shenzhen, Guangdong, China",True
+STANLEY Engineered Fastening,"No. 11, Zhongxin Rd., Kengzi St., Pingshang New Region, Shenzhen, Guangdong, China",True
+STANLEY Engineered Fastening,"Mechanical & Electrical Industry Park, No. 9, Xixia Rd., Wuxi National High Tech Industrial Development Zone, Wuxi, Jiangsu,",True
+STMicroelectronics NV,"China Via C. Olivetti 2, 20864 Agrate Brianza, Agrate, Brianza, Italy",True
+STMicroelectronics NV,"101, Boulevard des Muriers BP 97, Bouskoura, Casablanca, Morocco",True
+STMicroelectronics NV,"No. 9, Mountain Dr., Light Industry & Science Park II, La Mesa, Calamba, Laguna, Philippines",True
+STMicroelectronics NV,"Stradale Promosole 50, Catania, Sicily, Italy",True
+STMicroelectronics NV,"850, Rue Jean Monnet, Crolles, France",True
+STMicroelectronics NV,"Industry Rd., Kirkop, Malta",True
+STMicroelectronics NV,"Industrial Center Muar, Tanjong Agas Industrial Area, PO Box 28, 84007, Muar, Johor, Malaysia",True
+STMicroelectronics NV,"190 Avenue Célestin Coq Zone Industrielle, Rousset, France",True
+STMicroelectronics NV,"16, Tao Hua Rd. Futian Free Trade Zone, Shenzhen, Guangdong, China",True
+STMicroelectronics NV,"16, rue Pierre et Marie Curie, Tours, France",True
+Styron,"No. 17, Renjen Rd., Hsinchu Ind. Park, Hukou, Hisnchu, Taiwan",True
+Sumida Electric,"Electronic Information Industrial Pioneer Park, Deshan Economic Development District, Changde, Hunan, China",True
+Sumida Electric,"Tai Xin Rd., Humen Town, Dongguan, Guangdong, China",True
+Sumida Electric,"Economic & Industrial Development Zone, Kou Shui Heng Village, Shi Qi Town, Panyu District, Guangzhou, Guangdong, China",True
+Sumida Electric,"Junshan Rd., Jinggangshan Economic and Technological Development Zone, Ji'an, Jiangxi, China",True
+Sumida Electric,"148 Moo 5 Bangkadi Industrial Park, Tiwanon Rd., Tambol Bangkadi Amphur, Muang Pathumutani, Thailand",True
+Sumitomo Chemical Co. Ltd.,"862, Palbong-dong, Iksan, Jeollabuk-do, Korea",True
+Sumitomo Chemical Co. Ltd.,"1-1 Ooe, Niihama, Ehime, Japan",True
+Sumitomo Chemical Co. Ltd.,"61, Xinmei Rd., Bin Hu Qu, Wuxi, Jiangsu, China",True
+Sumitomo Electric Industries Ltd.,"Ampere St. Cor. Main Ave., Light Industry & Science Park, 1 Special Export Processing Zone, Cabuyao, Laguna, Philippines",True
+Sumitomo Electric Industries Ltd.,"30, Hinokigaoka, Minakuchi-Cho., Kouga-shi, Shiga, Japan",True
+Sumitomo Electric Industries Ltd.,"Bldg B, No. 20 Song Tang Rd., Tong Fu Yu Industrial Area, Tang Xia Chong, Songgang, Baoan, Shenzhen, Guangdong, China",True
+Sumitomo Electric Industries Ltd.,"No. 232, Jinfeng Rd, Suzhou New District, Suzhou, Jiangsu, China",True
+Sunrex Technology Corp.,"Xinqiao, 3rd Industrial Estate, Shajing, Baoan, Shenzhen, Guangdong, China",True
+Sunrex Technology Corp.,"No. 508, Guo Dao Rd., Fenhu Economic Development Zone, Luxu Town, Wujiang, Jiangsu, China",True
+Suyin Electronic Corp.,"Suyin Rd., San Zhong Village, Qing Xi Town, Dongguan, Guangdong, China",True
+Suzhou Anjie Technology Co. Ltd.,"No. 8, Fujin Rd., Guangfu Town, Wuzhong District, Suzhou, Jiangsu, China",True
+Suzhou Panel Electronic Co. Ltd.,"No. 2006, East Taihu Rd., Hengjing St., WuZhong District, Suzhou, Jiangsu, China",True
+Taishan City Kam Kiu Aluminium Extrusion Co. Ltd.,"Shiqiao Industrial Zone, Dajiang County, Taishan, Guangdong, China",True
+Taiyo Yuden Co. Ltd.,"1988, Nakanojo, Nakanojo-machi, Agatsuma-gun, Gunma, Japan",True
+Taiyo Yuden Co. Ltd.,"No. 13, Keji Dong Rd., Shi Jie Town, Dongguan, Guangdong, China",True
+Taiyo Yuden Co. Ltd.,"4026-22, Inanbar,Inami-cho, Hidaka-gun, Wakayama, Japan",True
+Taiyo Yuden Co. Ltd.,"197-8, Kamiyoshi, Kubiki-ku, Joetsu, Wakayama, Japan",True
+Taiyo Yuden Co. Ltd.,"Lot 977, Block 12,Sama Jaya Free Industrial Zone, Kuching, Sarawak, Malaysia",True
+Taiyo Yuden Co. Ltd.,"Mactan Economic Zone, Lapulapu, Cebu, Philippines",True
+Taiyo Yuden Co. Ltd.,"116, Bangji-Ri Sanam-Myun, Sachon, Gyeongsangnam-do, Korea",True
+Taiyo Yuden Co. Ltd.,"1796-1, Kawai,Tamamura-machi, Sawa-gun, Gunma, Japan",True
+Taiyo Yuden Co. Ltd.,"1660, Kamisatomi-machi, Takasaki, Gunma, Japan",True
+Taiyo Yuden Co. Ltd.,"43-1, Yawatabara-machi, Takasaki, Gunma, Japan",True
+Taiyo Yuden Co. Ltd.,"587-3, Sumiyoshi, Ueda-shi, Nagano, Japan",True
+Taylor Corp.,"5842 Carmen Avenue, Inver Grove Heights, Minnesota, USA",True
+Taylor Corp.,"925 Zane Avenue North, Minneapolis, Minnesota, USA",True
+Taylor Corp.,"3 Avenue d'Amazonie, ZA de Courtaboeuf, Paris, France",True
+TDK Epcos Corp.,"No. 68, West Huaihe Rd., Dalian Economic & Technical Development Zone, Dalian, Liaoning, China",True
+TDK Epcos Corp.,"Siemensstrasse 43, Deutschlandsberg, Austria",True
+TDK Epcos Corp.,"1, West Industrial Rd., North Industrial Park, SongShan Lake, Dongguan, Guangdong, China",True
+TDK Epcos Corp.,"689, Zhen An Rd., Conrad Hi-Tech Park, Changan Town, Dongguan, Guangdong, China",True
+TDK Epcos Corp.,"ATL Industrial Park, BaiMa, NanCheng District, Dongguan, Guangdong, China",True
+TDK Epcos Corp.,"1-6, Manganji, Yurihonjo-city, Honjo, Akita, Japan",True
+TDK Epcos Corp.,"106-163, 2 Goto, Waga-machi, Kitakami, Iwate, Japan",True
+TDK Epcos Corp.,"160, Miyazawa, Minami Alps, Yamanashi, Japan",True
+TDK Epcos Corp.,"Anzinger Strasse 13, Munich, Germany",True
+TDK Epcos Corp.,"130, Aza Juninomae, Konoura, Nikaho, Akita, Japan",True
+TDK Epcos Corp.,"No. 1, XingGang Rd., ZhangWan Town, Ningde, Fujian, China",True
+TDK Epcos Corp.,"No. 16, Tonghe Rd, Pingdu City, Qingdao, Shandong, China",True
+TDK Epcos Corp.,"99-19, Aza-Meiji, Oaza-Miyaumi, Sakata, Yamagata, Japan",True
+TDK Epcos Corp.,"166, Kallang Way, Singapore",True
+TDK Epcos Corp.,"6th Fl., 260 Tun Hwa N. Rd., Taipei, Taiwan",True
+TDK Epcos Corp.,"97,aza-Aburaden,Yamada, Tsuruoka, Yamagata, Japan",True
+TDK Epcos Corp.,"No. 17, Xi Shi Rd., New District, Wuxi, Jiangsu, China",True
+TDK Epcos Corp.,"No. 321-339, Tongi South Rd., Jimei District, Xiamen, Fujian, China",True
+TDK Epcos Corp.,"200, Aza-Tachisawa, Hirasawa, Nikaho-machi, Yuri-gan, Akita, Japan",True
+TDK Epcos Corp.,"146-1, Haraikawa, Ohuchi-Sankawa, Yuri-Honjoyoh, Akita, Japan",True
+TE Connectivity Ltd.,"2414, Amata, Inashiki-shi, Ibaraki, Japan",True
+TE Connectivity Ltd.,"No. 389, Central Avenue, Zone B, Export Processing Zone, Kunshan, Jiangsu, China",True
+TE Connectivity Ltd.,"No, 21, Deshun Bei Rd., Huanhai Economic Development Zone, Qingdao, Shandong, China",True
+Teikoku Printing Inks Mfg. Co. Ltd.,"999, Fengdeng Rd., Malu Town, Jiading District, Shanghai, China",True
+Teikoku Printing Inks Mfg. Co. Ltd.,"8-43-2, Nishiogu, Arakawa-ku, Tokyo, Japan",True
+Teikoku Printing Inks Mfg. Co. Ltd.,"613, Kurashina, Makioka-cho, Yamanashi, Japan",True
+Texas Instruments Inc.,"Jesus Rivera Franco #507, Aguascalientes, Mexico",True
+Texas Instruments Inc.,"2, Takaku-Kogyodanchi, Aizuwakamatsu, Fukushima, Japan",True
+Texas Instruments Inc.,"Peza, Loakan Rd., Baguio, Philippines",True
+Texas Instruments Inc.,"Batu Berendam Free Trade Zone, Batu Berendam, Malacca, Malaysia",True
+Texas Instruments Inc.,"8-10, Kexin Rd., Export Process Zone, Chengdu, Sichuan, China",True
+Texas Instruments Inc.,"Gil Puyat Ave., Clark, Philippines",True
+Texas Instruments Inc.,"13011 TI Blvd., Dallas, Texas, USA",True
+Texas Instruments Inc.,"13121 TI Blvd., Dallas, Texas, USA",True
+Texas Instruments Inc.,"13353 TI Blvd. Dock 7, Dallas, Texas, USA",True
+Texas Instruments Inc.,"13353 TI Blvd. Dock 3, Dallas, Texas, USA",True
+Texas Instruments Inc.,"13532 N. Central Expressway, Dallas, Texas, USA",True
+Texas Instruments Inc.,"13536 N. Central Expressway, Dallas, Texas, USA",True
+Texas Instruments Inc.,"Haggertystrasse 1, Freising, Germany",True
+Texas Instruments Inc.,"Earnhill Rd., Larkhill Industrial Estate, Greenock, Inverclyde, United Kingdom",True
+Texas Instruments Inc.,"1, Lorong Enggang 33, Ampang, Kuala Lumpur, Malaysia",True
+Texas Instruments Inc.,"2350, Kihara Miho-mura, Inashiki-gun, Miho, Ibaraki, Japan",True
+Texas Instruments Inc.,"West Industrial Estate, Centential Rd., Clark Freeport Zone, Pampanga, Philippines",True
+Texas Instruments Inc.,"3601 Alma Rd., Richardson, Texas, USA",True
+Texas Instruments Inc.,"6412 S. Highway 75, Sherman, Texas, USA",True
+Texas Instruments Inc.,"5 Foden Rd., South Portland, Maine, USA",True
+Texas Instruments Inc.,"142, Sec. 1, Hsin Nan Rd., Chung Ho City, Taipei, Taiwan",True
+Tianjin Lishen Battery Joint-Stock Co. Ltd.,"6, Lanyuan Rd., Huayuan Hi-Tech Industry Park, Tianjin, China",True
+Toshiba Corp.,"103, East Main Avenue Extension, Special Export Processing Zone, Laguna Technopark, Binan, Laguna, Philippines",True
+Toshiba Corp.,"760, Oaza Kutsugawa, Buzen, Fukuoka, Japan",True
+Toshiba Corp.,"300, Ikaruga, Taishi-cho (Himeji), Ibo-bun, Hyogo, Japan",True
+Toshiba Corp.,"1-1, Iwauchi-machi, Nomi, Ishikawa, Japan",True
+Toshiba Corp.,"3500, Oaza Matsuoka, Oita, Japan",True
+Toshiba Corp.,"135 Moo 5, Bangkadi Industrial Park, Tivanon Rd., Tambol Bangkadi Amphur, Muang Pathumutani, Thailand",True
+Toshiba Corp.,"800, Yamonoisshiki-Cho, Yokkaichi, Mie, Japan",True
+Toyo Rikagaku Kenkyusho Co. Ltd.,"No. 188, Gao Ding Rd., Kunshan Economic & Technical Development Zone, Kunshan, Jiangsu, China",True
+Toyo Rikagaku Kenkyusho Co. Ltd.,"No. 281, Peacock Rd., Precision Mechanical Industrial Park, Kunshan Economic & Technical Development Zone, Kunshan, Jiangsu, China",True
+Toyo Rikagaku Kenkyusho Co. Ltd.,"Punching Factory: No. 68, Central Avenue Kunshan Economic & Technical Development Zone, Kunshan, Jiangsu, China",True
+Toyoda Gosei Co. Ltd.,"5-1, Yawata Kaigan-dori, Ichihara, Chiba, Japan",True
+Toyoda Gosei Co. Ltd.,"710, Origuchi, Shimomiyake, Heiwa, Inazawa, Aichi, Japan",True
+Toyoda Gosei Co. Ltd.,"9966-9, Kawako, Oaza, Wakaki-cho, Takeo, Saga, Japan",True
+TPK Holding Co. Ltd.,"No. 199, Ban Shang Rd., Information & Photoelectricity Park of Xiamen Torch Hi-Tech Industrial Development Zone, Xiamen, Fujian, China",True
+TPK Holding Co. Ltd.,"No. 996, Ming'an Blvd, Xiang'an District, Xiamen, Fujian, China",True
+Tripod Technology Corp.,"No. 68, East 3rd Furong Rd., Development Zone, Xishan District, Wuxi, Jiangsu, China",True
+TriQuint Semiconductor Inc.,"1818 S Orange Blossom Trail, Apopka, Florida, USA",True
+TriQuint Semiconductor Inc.,"Zona Franca Metropolitana, Barreal De Heredia, Apartado 144-3006, Haredia, Costa Rica",True
+TriQuint Semiconductor Inc.,"2300 N.E. Brookwood Parkway, Hillsboro, Oregon, USA",True
+TriQuint Semiconductor Inc.,"500 W.Renner Rd., Richardson, Texas, USA",True
+Triumph Lead Group Ltd.,"20-B, Lixing Industrial Park, South Hongye Rd., Chongzhou, Sichuan, China",True
+Triumph Lead Group Ltd.,"Building A, FengMenAo Technology Park, FengMen Rd., BanTian, LongGang District, Shenzhen, Guangdong, China",True
+Triumph Lead Group Ltd.,"No. 8, Changping Rd., Huangdai, Xiangcheng Dist, Suzhou, Jiangsu, China",True
+TTM Technologies Inc.,"No. 238, Shanhu Rd., Niushan Foreign Economy Industrial Zone, Dongcheng District, Dongguan, Guangdong, China",True
+TTM Technologies Inc.,"No. 1, Xinle Rd., Science City, Hi-Tech Industrial Development Zone, Guangzhou, Guangdong, China",True
+TTM Technologies Inc.,"No. 200, Jiang Tian Dong Rd. East, Song Jiang Industrial Zone, Shanghai, China",True
+TTM Technologies Inc.,"No. 685, Lian Yang Rd., SongJiang Industrial Zone, Shanghai, China",True
+TXC Corp.,"No. 189, Huangshan West Rd., Beilun District, Ningbo, Zhejiang, China",True
+TXC Corp.,"No. 4, Kung Yeh 6th Rd, Ping Cheng Industrial District, Taoyuan, Taiwan",True
+UACJ Corp.,"No. 99, Shaojing Rd., Kunshan Economical Technology Development Zone, Kunshan, Jiangsu, China",True
+UACJ Corp.,"3-1-12, Chitose Minato-ku, Nagoya, Aichi, Japan",True
+UniBright Chemical Co.,"No. 8, Guangfu Rd., Hsinchu Industrial Park, East District, Hukou Township, Hsinchu, Taiwan",True
+Unimicron Corp.,"No. 168, XiaoLin Rd., Kunshan, Jiangsu, China",True
+Unimicron Corp.,"No. 1, Nan Shan North Rd., Sec. 2, Lu Chu County, Taoyuan, Taiwan",True
+Unimicron Corp.,"No. 177, Shan Ying Rd., Kwei Shan Ind. Park, Taoyuan, Taiwan",True
+Unisteel Technology Ltd.,"No. 358, Fengmao Rd., Malu Town, Jiading District, Shanghai, China",True
+Unisteel Technology Ltd.,"No. 988, Shang Xue Rd., Malu Town, Jia Ding District, Shanghai, China",True
+Vishay Intertechnology Inc.,"Ha-Kotzer 3 ST, Beer Sheva, Israel",True
+Vishay Intertechnology Inc.,"P.O. Box 2317, Beer Sheva, Israel",True
+Vishay Intertechnology Inc.,"Foti ut 56, Budapest, Hungary",True
+Vishay Intertechnology Inc.,"Ave. de las Torres #1950, Ciudad Juarez, Chihuahua, Mexico",True
+Vishay Intertechnology Inc.,"1122 23rd St., Columbus, Nebraska, USA",True
+Vishay Intertechnology Inc.,"Dimona Industrial Park, Dimona, Israel",True
+Vishay Intertechnology Inc.,"Rungholtstr 8-10, Heide, Germany",True
+Vishay Intertechnology Inc.,"46, Renmin 4 Rd., Danshui Town, Huizhou, Guangdong, China",True
+Vishay Intertechnology Inc.,"Fraunhoferstr 1, D-25524, Itzehoe, Germany",True
+Vishay Intertechnology Inc.,"3-3, East 2nd St., Nantze Export Processing Zone, Kaohsiung, Taiwan",True
+Vishay Intertechnology Inc.,"FTI Estate, Bagsaka Rd., Taguig, Manilla, Philippines",True
+Vishay Intertechnology Inc.,"No. 1710-1, Kawasan Perindustrian Krubong, Melaka, Malaysia",True
+Vishay Intertechnology Inc.,"Ramat Gabriel Industrial Park, Migdal Ha'Emek, Israel",True
+Vishay Intertechnology Inc.,"1806 Ord Way, Oceanside, California, USA",True
+Vishay Intertechnology Inc.,"Mlynska 1095, Prestice, Czech Republic",True
+Vishay Intertechnology Inc.,"Wijnendalestraat 160, Roeselare, West Flanders, Belgium",True
+Vishay Intertechnology Inc.,"2201 Laurelwood Rd., Santa Clara, California, USA",True
+Vishay Intertechnology Inc.,"Dr. Felix Zandman Platz 1, Selb, Germany",True
+Vishay Intertechnology Inc.,"501, West Jianchang Rd., Shanghai, China",True
+Vishay Intertechnology Inc.,"No. 58, Chang Xu Rd., Jiading, Shanghai, China",True
+Vishay Intertechnology Inc.,"Outside North Gate of Jiading, Shanghai, China",True
+Vishay Intertechnology Inc.,"233, Pao Chiao Rd. Hsintien, Taipei, Taiwan",True
+Vishay Intertechnology Inc.,"No. 88, 6th Ave, Tianjin Economic Zone, Tianjin, China",True
+Vishay Intertechnology Inc.,"Vila Nova De Famalicao Calendario, Portugal",True
+Vishay Intertechnology Inc.,"1505 E. Hwy 50, Yankton, South Dakota, USA",True
+Volex Plc,"No. 1173, Shenhui Rd., Henggang, Shenzhen, Guangdong, China",True
+Western Digital Corp.,"191 Moo 2, BangPa-in Industrial Estates, Udomsorayuth Rd., Klongjig, Bang Pa-In, Ayutthaya, Thailand",True
+Western Digital Corp.,"10 LG East Rd., Zhongkai Hi-Tech Industry Development Zone, Huizhou, Guangdong, China",True
+Western Digital Corp.,"Lot 2 & Lot 3, Jalan SS 8/4, Sungei Way Free Industrial Zone, Petaling Jaya, Selangor, Malaysia",True
+Western Digital Corp.,"203, 205 Moo 7, Tumbon Tha Tum, Amphur Srimahaphote, Prachin Buri, Thailand",True
+Western Digital Corp.,"No. 3001, Jinxiuxi Rd., Longgang District, Shenzhen, Guangdong, China",True
+Wintek Corp.,"No. 99, Suhong West Rd., Suzhou Industrial Park, Suzhou, Jiangsu, China",True
+Zeniya Aluminum Engineering Ltd.,"No. 130, Bubugao Rd., Wusha Jiangbei Village, Changan Town, Dongguan, Guangdong, China",True
+Zeniya Aluminum Engineering Ltd.,"No. 307, Bubugao Rd., Wusha Jiangbei Village, Changan Town, Dongguan, Guangdong, China",True
+Zeniya Aluminum Engineering Ltd.,"No. 888, Bubugao Rd., Wusha Jiangbei Village, Changan Town, Dongguan, Guangdong, China",True
+Zeniya Aluminum Engineering Ltd.,"Block B, No. 2, Industry 5th Rd., Jiangbian, Songgang Community, Bao'an District, Shenzhen, Guangdong, China",True
+Zhen Ding Technology Co. Ltd.,"No. 168, Fushikang Rd., Huai'an Economic Development Zone, Huai'an, Jiangsu, China",True
+Zhen Ding Technology Co. Ltd.,"No. 18, Tengfei Rd., Economic and Technological Development Zone, Qinhuangdao, Hebei, China",True
+Zhen Ding Technology Co. Ltd.,"Song Gang Industrial Area, Yan Chuan Yan Luo Rd., Song Gang Town, Bao'an District, Shenzhen, Guangdong, China",True
+Advanced Micro Devices Inc.,"One AMD Place, Sunnyvale, California, USA",False
+Audience Inc.,"331 Fairchild Drive, Mountain View, California, USA",False
+Broadcom Corp.,"5300 California Avenue, Irvine, California, USA",False
+Cirrus Logic Inc.,"800 West 6th Street, Austin, Texas, USA",False
+Dialog Semiconductor GmbH,"Neue Strasse 95, Kirchheim Teck, Nabern, Germany",False
+Intersil Corp.,"1001 Murphy Ranch Road, Milpitas, California, USA",False
+NVIDIA Corp.,"2701 San Tomas Expressway, Santa Clara, California, USA",False
+Parade Technologies Ltd.,"2858 De La Cruz Blvd., Santa Clara, California, USA",False
+Qualcomm Inc.,"5775 Morehouse Drive, San Diego, California, USA",False
+Silicon Works Co. Ltd.,"707 Tamnip-dong, Yu-Sung Gu, Daejeon City, Korea",False
