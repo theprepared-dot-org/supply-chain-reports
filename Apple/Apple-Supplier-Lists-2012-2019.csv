@@ -1,4 +1,4 @@
-supplier,supplier_address,supplier_address_is_internal_manufacturing_site,from_date,to_date
+supplier_name,supplier_address,supplier_address_is_internal_manufacturing_site,from_date,to_date
 AAC Technologies Holdings Inc.,,None,2011-01-01,2011-12-31
 AcBel Polytech Inc.,,None,2011-01-01,2011-12-31
 Acument Global Technologies,,None,2011-01-01,2011-12-31
