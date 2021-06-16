@@ -1,24 +1,7 @@
 supplier_name,supplier_address,supplier_address_is_internal_manufacturing_site
-3M Company,Guangdong China mainland,yes
-3M Company,Jiangsu China mainland,yes
-3M Company,Shanghai China mainland,yes
-3M Company,Yamagata Japan,yes
-3M Company,Gyeonggi-Do South Korea,yes
-3M Company,Alabama United States,yes
-3M Company,Iowa United States,yes
-3M Company,Minnesota United States,yes
-3M Company,Ohio United States,yes
-3M Company,South Carolina United States,yes
-3M Company,Wisconsin United States,yes
-AAC Acoustic Technologies Holdings Incorporated,Guangdong China mainland,yes
-AAC Acoustic Technologies Holdings Incorporated,Jiangsu China mainland,yes
-Advanced Semiconductor Engineering Incorporated,Guangdong China mainland,yes
-Advanced Semiconductor Engineering Incorporated,Jiangsu China mainland,yes
-Advanced Semiconductor Engineering Incorporated,Yamagata Japan,yes
-Advanced Semiconductor Engineering Incorporated,Gyeonggi-Do South Korea,yes
-Advanced Semiconductor Engineering Incorporated,Singapore,yes
-Advanced Semiconductor Engineering Incorporated,Kaohsiung Taiwan,yes
-Advanced Semiconductor Engineering Incorporated,Taoyuan Taiwan,yes
+3M Company
+AAC Acoustic Technologies Holdings Incorporated
+Advanced Semiconductor Engineering Incorporated
 AGC Incorporated
 AKM Meadville Electronics (Xiamen) Company Limited
 Alpha and Omega Semiconductor Limited
@@ -73,7 +56,6 @@ Hirose Electric Company Limited
 Hitachi Limited
 Hon Hai Precision Industry Company Limited (Foxconn)
 IDEMIA Group
-IDEMIA Group (continued)
 II-VI Incorporated
 INB Electronics Limited
 Infineon Technologies AG
@@ -84,7 +66,6 @@ Jabil Incorporated
 Japan Aviation Electronics Industry Limited
 Japan Display Incorporated
 JCET Group Company Limited
-JCET Group Company Limited (continued)
 Jiangsu Gian Technology Company Limited
 Jinlong Machinery and Electronics Company Limited
 Jones Tech PLC
@@ -101,7 +82,6 @@ LG Chem Limited
 LG Display Company Limited
 LG Innotek Company Limited
 Lingyi iTech (Guangdong) Company
-Lingyi iTech (Guangdong) Company (continued)
 Lite-On Technology Corporation
 Longwell Company
 LOTES Company Limited
@@ -113,7 +93,6 @@ Maxim Integrated Products Incorporated
 Microchip Technology Incorporated
 Micron Technology Incorporated
 MinebeaMitsumi Incorporated
-MinebeaMitsumi Incorporated (continued)
 Molex Incorporated
 Murata Manufacturing Company Limited
 MYS Group Company Limited
@@ -144,7 +123,6 @@ Quanta Computer Incorporated
 R.R. Donnelley and Sons Company
 Radiant Opto-Electronics Corporation
 Renesas Electronics Corporation
-Renesas Electronics Corporation (continued)
 Robert Bosch GmbH
 Rohm Company Limited
 Royal DSM
